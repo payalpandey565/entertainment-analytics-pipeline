@@ -1,0 +1,349 @@
+2026-05-12 21:43:16,385 - ERROR - API request failed: {"status_code":7,"status_message":"Invalid API key: You must be granted a valid key.","success":false}
+
+2026-05-12 21:44:43,434 - INFO - Movie data extracted successfully
+2026-05-12 21:46:34,920 - INFO - Transformation completed successfully
+2026-05-12 21:48:30,056 - INFO - Load and validation completed successfully
+2026-05-12 21:50:12,053 - INFO - Movie data extracted successfully
+2026-05-12 21:50:12,064 - INFO - Transformation completed successfully
+2026-05-12 21:50:12,077 - INFO - Load and validation completed successfully
+2026-05-12 21:56:59,310 - INFO - Page 1 extracted successfully
+2026-05-12 21:57:00,157 - INFO - Page 2 extracted successfully
+2026-05-12 21:57:00,981 - INFO - Page 3 extracted successfully
+2026-05-12 21:57:01,834 - INFO - Page 4 extracted successfully
+2026-05-12 21:57:02,689 - INFO - Page 5 extracted successfully
+2026-05-12 21:57:02,692 - INFO - All movie data extracted successfully
+2026-05-12 21:57:02,694 - ERROR - Transformation failed: list indices must be integers or slices, not str
+2026-05-12 21:57:02,705 - INFO - Load and validation completed successfully
+2026-05-12 21:58:38,914 - INFO - Page 1 extracted successfully
+2026-05-12 21:58:39,646 - INFO - Page 2 extracted successfully
+2026-05-12 21:58:40,392 - INFO - Page 3 extracted successfully
+2026-05-12 21:58:41,135 - INFO - Page 4 extracted successfully
+2026-05-12 21:58:41,900 - INFO - Page 5 extracted successfully
+2026-05-12 21:58:41,903 - INFO - All movie data extracted successfully
+2026-05-12 21:58:41,910 - INFO - Transformation completed successfully
+2026-05-12 21:58:41,919 - INFO - Load and validation completed successfully
+2026-05-12 22:08:28,412 - INFO - Page 1 extracted successfully
+2026-05-12 22:08:29,183 - INFO - Page 2 extracted successfully
+2026-05-12 22:08:29,960 - INFO - Page 3 extracted successfully
+2026-05-12 22:08:30,702 - INFO - Page 4 extracted successfully
+2026-05-12 22:08:31,445 - INFO - Page 5 extracted successfully
+2026-05-12 22:08:31,449 - INFO - All movie data extracted successfully
+2026-05-12 22:08:32,356 - INFO - Cast extracted for movie 1007757
+2026-05-12 22:08:33,188 - INFO - Cast extracted for movie 1226863
+2026-05-12 22:08:34,023 - INFO - Cast extracted for movie 1318447
+2026-05-12 22:08:34,906 - INFO - Cast extracted for movie 687163
+2026-05-12 22:08:35,749 - INFO - Cast extracted for movie 350
+2026-05-12 22:08:36,587 - INFO - Cast extracted for movie 1198994
+2026-05-12 22:08:37,435 - INFO - Cast extracted for movie 1523145
+2026-05-12 22:08:38,273 - INFO - Cast extracted for movie 318256
+2026-05-12 22:08:39,110 - INFO - Cast extracted for movie 931285
+2026-05-12 22:08:39,955 - INFO - Cast extracted for movie 1630423
+2026-05-12 22:08:40,791 - INFO - Cast extracted for movie 1266127
+2026-05-12 22:08:41,680 - INFO - Cast extracted for movie 936075
+2026-05-12 22:08:42,539 - INFO - Cast extracted for movie 83533
+2026-05-12 22:08:43,367 - INFO - Cast extracted for movie 1327819
+2026-05-12 22:08:44,212 - INFO - Cast extracted for movie 10867
+2026-05-12 22:08:45,044 - INFO - Cast extracted for movie 1669050
+2026-05-12 22:08:45,881 - INFO - Cast extracted for movie 1330021
+2026-05-12 22:08:46,747 - INFO - Cast extracted for movie 1292415
+2026-05-12 22:08:47,604 - INFO - Cast extracted for movie 1613798
+2026-05-12 22:08:48,462 - INFO - Cast extracted for movie 1297842
+2026-05-12 22:08:49,331 - INFO - Cast extracted for movie 1241752
+2026-05-12 22:08:50,246 - INFO - Cast extracted for movie 1292695
+2026-05-12 22:08:51,082 - INFO - Cast extracted for movie 1314481
+2026-05-12 22:08:51,999 - INFO - Cast extracted for movie 980431
+2026-05-12 22:08:52,920 - INFO - Cast extracted for movie 460465
+2026-05-12 22:08:53,807 - INFO - Cast extracted for movie 1290821
+2026-05-12 22:08:54,686 - INFO - Cast extracted for movie 1426822
+2026-05-12 22:08:55,520 - INFO - Cast extracted for movie 1510745
+2026-05-12 22:08:56,359 - INFO - Cast extracted for movie 1311031
+2026-05-12 22:08:57,237 - INFO - Cast extracted for movie 1325734
+2026-05-12 22:08:58,241 - INFO - Cast extracted for movie 1084242
+2026-05-12 22:08:59,073 - INFO - Cast extracted for movie 1235192
+2026-05-12 22:08:59,955 - INFO - Cast extracted for movie 1242898
+2026-05-12 22:09:00,763 - INFO - Cast extracted for movie 1038918
+2026-05-12 22:09:01,635 - INFO - Cast extracted for movie 1414413
+2026-05-12 22:09:02,466 - INFO - Cast extracted for movie 755898
+2026-05-12 22:09:03,301 - INFO - Cast extracted for movie 249397
+2026-05-12 22:09:04,150 - INFO - Cast extracted for movie 1419406
+2026-05-12 22:09:04,969 - INFO - Cast extracted for movie 1173559
+2026-05-12 22:09:05,783 - INFO - Cast extracted for movie 510657
+2026-05-12 22:09:06,602 - INFO - Cast extracted for movie 840464
+2026-05-12 22:09:07,459 - INFO - Cast extracted for movie 1368166
+2026-05-12 22:09:08,198 - INFO - Cast extracted for movie 1173559
+2026-05-12 22:09:09,057 - INFO - Cast extracted for movie 7451
+2026-05-12 22:09:09,768 - INFO - Cast extracted for movie 249397
+2026-05-12 22:09:10,496 - INFO - Cast extracted for movie 510657
+2026-05-12 22:09:11,437 - INFO - Cast extracted for movie 1301421
+2026-05-12 22:09:12,285 - INFO - Cast extracted for movie 1159559
+2026-05-12 22:09:13,159 - INFO - Cast extracted for movie 157336
+2026-05-12 22:09:13,978 - INFO - Cast extracted for movie 1383731
+2026-05-12 22:09:14,809 - INFO - Cast extracted for movie 78192
+2026-05-12 22:09:15,650 - INFO - Cast extracted for movie 1352874
+2026-05-12 22:09:16,482 - INFO - Cast extracted for movie 609681
+2026-05-12 22:09:17,339 - INFO - Cast extracted for movie 82023
+2026-05-12 22:09:18,175 - INFO - Cast extracted for movie 458293
+2026-05-12 22:09:18,992 - INFO - Cast extracted for movie 1084577
+2026-05-12 22:09:19,820 - INFO - Cast extracted for movie 1265609
+2026-05-12 22:09:20,676 - INFO - Cast extracted for movie 1534530
+2026-05-12 22:09:21,514 - INFO - Cast extracted for movie 848116
+2026-05-12 22:09:22,363 - INFO - Cast extracted for movie 1601797
+2026-05-12 22:09:23,209 - INFO - Cast extracted for movie 1207162
+2026-05-12 22:09:24,108 - INFO - Cast extracted for movie 441168
+2026-05-12 22:09:24,935 - INFO - Cast extracted for movie 1641319
+2026-05-12 22:09:25,764 - INFO - Cast extracted for movie 502356
+2026-05-12 22:09:26,577 - INFO - Cast extracted for movie 744275
+2026-05-12 22:09:27,483 - INFO - Cast extracted for movie 24428
+2026-05-12 22:09:28,555 - INFO - Cast extracted for movie 299536
+2026-05-12 22:09:29,390 - INFO - Cast extracted for movie 976912
+2026-05-12 22:09:30,205 - INFO - Cast extracted for movie 1177445
+2026-05-12 22:09:31,028 - INFO - Cast extracted for movie 278
+2026-05-12 22:09:31,830 - INFO - Cast extracted for movie 1087040
+2026-05-12 22:09:32,646 - INFO - Cast extracted for movie 1110034
+2026-05-12 22:09:33,485 - INFO - Cast extracted for movie 1316092
+2026-05-12 22:09:34,322 - INFO - Cast extracted for movie 1470130
+2026-05-12 22:09:35,283 - INFO - Cast extracted for movie 184314
+2026-05-12 22:09:36,163 - INFO - Cast extracted for movie 1038392
+2026-05-12 22:09:37,027 - INFO - Cast extracted for movie 44980
+2026-05-12 22:09:38,092 - INFO - Cast extracted for movie 1317448
+2026-05-12 22:09:39,037 - INFO - Cast extracted for movie 73353
+2026-05-12 22:09:39,873 - INFO - Cast extracted for movie 1368337
+2026-05-12 22:09:40,898 - INFO - Cast extracted for movie 911430
+2026-05-12 22:09:41,786 - INFO - Cast extracted for movie 1688652
+2026-05-12 22:09:42,610 - INFO - Cast extracted for movie 91478
+2026-05-12 22:09:43,459 - INFO - Cast extracted for movie 334535
+2026-05-12 22:09:44,320 - INFO - Cast extracted for movie 680493
+2026-05-12 22:09:45,133 - INFO - Cast extracted for movie 1196067
+2026-05-12 22:09:46,018 - INFO - Cast extracted for movie 1234731
+2026-05-12 22:09:46,887 - INFO - Cast extracted for movie 1476740
+2026-05-12 22:09:47,990 - INFO - Cast extracted for movie 1010581
+2026-05-12 22:09:49,046 - INFO - Cast extracted for movie 425274
+2026-05-12 22:09:49,874 - INFO - Cast extracted for movie 1292662
+2026-05-12 22:09:50,703 - INFO - Cast extracted for movie 80175
+2026-05-12 22:09:51,582 - INFO - Cast extracted for movie 1266992
+2026-05-12 22:09:52,427 - INFO - Cast extracted for movie 803796
+2026-05-12 22:09:53,261 - INFO - Cast extracted for movie 1304313
+2026-05-12 22:09:54,151 - INFO - Cast extracted for movie 1084187
+2026-05-12 22:09:55,041 - INFO - Cast extracted for movie 238
+2026-05-12 22:09:56,046 - INFO - Cast extracted for movie 27205
+2026-05-12 22:09:56,992 - INFO - Cast extracted for movie 10693
+2026-05-12 22:09:57,816 - INFO - Cast extracted for movie 1115544
+2026-05-12 22:09:57,823 - INFO - All cast data extracted successfully
+2026-05-14 09:25:27,151 - INFO - Page 1 extracted successfully
+2026-05-14 09:25:28,161 - INFO - Page 2 extracted successfully
+2026-05-14 09:25:29,132 - INFO - Page 3 extracted successfully
+2026-05-14 09:25:30,078 - INFO - Page 4 extracted successfully
+2026-05-14 09:25:31,044 - INFO - Page 5 extracted successfully
+2026-05-14 09:25:31,051 - INFO - All movie data extracted successfully
+2026-05-14 09:25:32,060 - INFO - Cast extracted for movie 1007757
+2026-05-14 09:25:33,024 - INFO - Cast extracted for movie 1226863
+2026-05-14 09:25:34,019 - INFO - Cast extracted for movie 687163
+2026-05-14 09:25:35,032 - INFO - Cast extracted for movie 1318447
+2026-05-14 09:25:36,096 - INFO - Cast extracted for movie 350
+2026-05-14 09:25:37,073 - INFO - Cast extracted for movie 1523145
+2026-05-14 09:25:38,144 - INFO - Cast extracted for movie 1198994
+2026-05-14 09:25:39,131 - INFO - Cast extracted for movie 931285
+2026-05-14 09:25:40,148 - INFO - Cast extracted for movie 1630423
+2026-05-14 09:25:41,167 - INFO - Cast extracted for movie 1266127
+2026-05-14 09:25:43,338 - INFO - Cast extracted for movie 936075
+2026-05-14 09:25:44,822 - INFO - Cast extracted for movie 83533
+2026-05-14 09:25:46,319 - INFO - Cast extracted for movie 1327819
+2026-05-14 09:25:47,178 - INFO - Cast extracted for movie 1330021
+2026-05-14 09:25:48,052 - INFO - Cast extracted for movie 1292415
+2026-05-14 09:25:48,925 - INFO - Cast extracted for movie 318256
+2026-05-14 09:25:50,023 - INFO - Cast extracted for movie 10867
+2026-05-14 09:25:50,999 - INFO - Cast extracted for movie 1669050
+2026-05-14 09:25:51,914 - INFO - Cast extracted for movie 1241752
+2026-05-14 09:25:52,954 - INFO - Cast extracted for movie 1613798
+2026-05-14 09:25:53,989 - INFO - Cast extracted for movie 460465
+2026-05-14 09:25:54,938 - INFO - Cast extracted for movie 1292695
+2026-05-14 09:25:55,922 - INFO - Cast extracted for movie 1426822
+2026-05-14 09:25:56,941 - INFO - Cast extracted for movie 1314481
+2026-05-14 09:25:58,114 - INFO - Cast extracted for movie 1290821
+2026-05-14 09:25:59,084 - INFO - Cast extracted for movie 980431
+2026-05-14 09:26:00,123 - INFO - Cast extracted for movie 1038918
+2026-05-14 09:26:01,159 - INFO - Cast extracted for movie 1311031
+2026-05-14 09:26:02,311 - INFO - Cast extracted for movie 1084242
+2026-05-14 09:26:03,307 - INFO - Cast extracted for movie 1235192
+2026-05-14 09:26:04,305 - INFO - Cast extracted for movie 1510745
+2026-05-14 09:26:05,238 - INFO - Cast extracted for movie 249397
+2026-05-14 09:26:06,262 - INFO - Cast extracted for movie 1242898
+2026-05-14 09:26:07,243 - INFO - Cast extracted for movie 1325734
+2026-05-14 09:26:08,303 - INFO - Cast extracted for movie 755898
+2026-05-14 09:26:09,442 - INFO - Cast extracted for movie 855435
+2026-05-14 09:26:10,463 - INFO - Cast extracted for movie 1414413
+2026-05-14 09:26:11,371 - INFO - Cast extracted for movie 510657
+2026-05-14 09:26:12,449 - INFO - Cast extracted for movie 1419406
+2026-05-14 09:26:13,330 - INFO - Cast extracted for movie 1171145
+2026-05-14 09:26:14,355 - INFO - Cast extracted for movie 1368166
+2026-05-14 09:26:15,269 - INFO - Cast extracted for movie 840464
+2026-05-14 09:26:16,340 - INFO - Cast extracted for movie 157336
+2026-05-14 09:26:17,340 - INFO - Cast extracted for movie 7451
+2026-05-14 09:26:18,344 - INFO - Cast extracted for movie 1301421
+2026-05-14 09:26:19,357 - INFO - Cast extracted for movie 440249
+2026-05-14 09:26:20,395 - INFO - Cast extracted for movie 1173559
+2026-05-14 09:26:21,325 - INFO - Cast extracted for movie 1159559
+2026-05-14 09:26:22,334 - INFO - Cast extracted for movie 976912
+2026-05-14 09:26:23,302 - INFO - Cast extracted for movie 78192
+2026-05-14 09:26:24,279 - INFO - Cast extracted for movie 1383731
+2026-05-14 09:26:25,202 - INFO - Cast extracted for movie 278
+2026-05-14 09:26:26,232 - INFO - Cast extracted for movie 1207162
+2026-05-14 09:26:27,251 - INFO - Cast extracted for movie 848116
+2026-05-14 09:26:28,273 - INFO - Cast extracted for movie 184314
+2026-05-14 09:26:29,450 - INFO - Cast extracted for movie 24428
+2026-05-14 09:26:30,429 - INFO - Cast extracted for movie 458293
+2026-05-14 09:26:31,394 - INFO - Cast extracted for movie 1265609
+2026-05-14 09:26:32,375 - INFO - Cast extracted for movie 1177445
+2026-05-14 09:26:33,412 - INFO - Cast extracted for movie 502356
+2026-05-14 09:26:34,466 - INFO - Cast extracted for movie 502356
+2026-05-14 09:26:35,860 - INFO - Cast extracted for movie 1084577
+2026-05-14 09:26:37,851 - INFO - Cast extracted for movie 299536
+2026-05-14 09:26:39,536 - INFO - Cast extracted for movie 1317448
+2026-05-14 09:26:41,226 - INFO - Cast extracted for movie 441168
+2026-05-14 09:26:42,713 - INFO - Cast extracted for movie 1641319
+2026-05-14 09:26:44,296 - INFO - Cast extracted for movie 744275
+2026-05-14 09:26:45,835 - INFO - Cast extracted for movie 603
+2026-05-14 09:26:47,292 - INFO - Cast extracted for movie 1601797
+2026-05-14 09:26:48,857 - INFO - Cast extracted for movie 1316092
+2026-05-14 09:26:50,499 - INFO - Cast extracted for movie 1352874
+2026-05-14 09:26:52,551 - INFO - Cast extracted for movie 1368337
+2026-05-14 09:26:54,284 - INFO - Cast extracted for movie 1110034
+2026-05-14 09:26:55,833 - INFO - Cast extracted for movie 238
+2026-05-14 09:26:57,517 - INFO - Cast extracted for movie 27205
+2026-05-14 09:27:00,372 - INFO - Cast extracted for movie 1010581
+2026-05-14 09:27:01,958 - INFO - Cast extracted for movie 1534530
+2026-05-14 09:27:03,439 - INFO - Cast extracted for movie 911430
+2026-05-14 09:27:05,084 - INFO - Cast extracted for movie 1688652
+2026-05-14 09:27:06,722 - INFO - Cast extracted for movie 609681
+2026-05-14 09:27:08,282 - INFO - Cast extracted for movie 609681
+2026-05-14 09:27:09,625 - INFO - Cast extracted for movie 425274
+2026-05-14 09:27:11,147 - INFO - Cast extracted for movie 1196067
+2026-05-14 09:27:12,676 - INFO - Cast extracted for movie 122
+2026-05-14 09:27:14,459 - INFO - Cast extracted for movie 1336770
+2026-05-14 09:27:15,920 - INFO - Cast extracted for movie 155
+2026-05-14 09:27:17,372 - INFO - Cast extracted for movie 278986
+2026-05-14 09:27:18,762 - INFO - Cast extracted for movie 1038392
+2026-05-14 09:27:20,084 - INFO - Cast extracted for movie 82023
+2026-05-14 09:27:21,518 - INFO - Cast extracted for movie 1470130
+2026-05-14 09:27:22,784 - INFO - Cast extracted for movie 11013
+2026-05-14 09:27:24,403 - INFO - Cast extracted for movie 1087040
+2026-05-14 09:27:26,430 - INFO - Cast extracted for movie 1084187
+2026-05-14 09:27:28,330 - INFO - Cast extracted for movie 120
+2026-05-14 09:27:30,738 - INFO - Cast extracted for movie 1272837
+2026-05-14 09:27:32,308 - INFO - Cast extracted for movie 803796
+2026-05-14 09:27:33,818 - INFO - Cast extracted for movie 1234731
+2026-05-14 09:27:35,387 - INFO - Cast extracted for movie 967998
+2026-05-14 09:27:36,900 - INFO - Cast extracted for movie 479787
+2026-05-14 09:27:38,824 - INFO - Cast extracted for movie 496243
+2026-05-14 09:27:38,832 - INFO - All cast data extracted successfully
+2026-05-14 09:27:39,218 - INFO - Advanced transformation completed successfully
+2026-05-14 09:27:39,253 - INFO - Load validation completed successfully
+2026-05-14 10:03:05,743 - INFO - Page 1 extracted successfully
+2026-05-14 10:03:06,771 - INFO - Page 2 extracted successfully
+2026-05-14 10:03:07,952 - INFO - Page 3 extracted successfully
+2026-05-14 10:03:08,870 - INFO - Page 4 extracted successfully
+2026-05-14 10:03:09,947 - INFO - Page 5 extracted successfully
+2026-05-14 10:03:09,955 - INFO - All movie data extracted successfully
+2026-05-14 10:03:10,947 - INFO - Cast extracted for movie 1007757
+2026-05-14 10:03:11,879 - INFO - Cast extracted for movie 1226863
+2026-05-14 10:03:12,817 - INFO - Cast extracted for movie 687163
+2026-05-14 10:03:13,837 - INFO - Cast extracted for movie 1318447
+2026-05-14 10:03:14,820 - INFO - Cast extracted for movie 1439930
+2026-05-14 10:03:15,876 - INFO - Cast extracted for movie 350
+2026-05-14 10:03:16,806 - INFO - Cast extracted for movie 1523145
+2026-05-14 10:03:17,931 - INFO - Cast extracted for movie 1198994
+2026-05-14 10:03:18,858 - INFO - Cast extracted for movie 931285
+2026-05-14 10:03:19,878 - INFO - Cast extracted for movie 1630423
+2026-05-14 10:03:20,800 - INFO - Cast extracted for movie 1266127
+2026-05-14 10:03:21,928 - INFO - Cast extracted for movie 83533
+2026-05-14 10:03:22,950 - INFO - Cast extracted for movie 1327819
+2026-05-14 10:03:23,872 - INFO - Cast extracted for movie 936075
+2026-05-14 10:03:24,793 - INFO - Cast extracted for movie 1330021
+2026-05-14 10:03:25,716 - INFO - Cast extracted for movie 1292415
+2026-05-14 10:03:26,637 - INFO - Cast extracted for movie 10867
+2026-05-14 10:03:27,558 - INFO - Cast extracted for movie 1669050
+2026-05-14 10:03:28,581 - INFO - Cast extracted for movie 1241752
+2026-05-14 10:03:29,504 - INFO - Cast extracted for movie 1613798
+2026-05-14 10:03:30,529 - INFO - Cast extracted for movie 460465
+2026-05-14 10:03:31,654 - INFO - Cast extracted for movie 1292695
+2026-05-14 10:03:32,576 - INFO - Cast extracted for movie 1426822
+2026-05-14 10:03:33,499 - INFO - Cast extracted for movie 1314481
+2026-05-14 10:03:34,420 - INFO - Cast extracted for movie 1290821
+2026-05-14 10:03:35,342 - INFO - Cast extracted for movie 980431
+2026-05-14 10:03:36,267 - INFO - Cast extracted for movie 1038918
+2026-05-14 10:03:37,255 - INFO - Cast extracted for movie 1311031
+2026-05-14 10:03:38,224 - INFO - Cast extracted for movie 1084242
+2026-05-14 10:03:39,232 - INFO - Cast extracted for movie 1235192
+2026-05-14 10:03:40,153 - INFO - Cast extracted for movie 1510745
+2026-05-14 10:03:41,180 - INFO - Cast extracted for movie 249397
+2026-05-14 10:03:42,101 - INFO - Cast extracted for movie 1242898
+2026-05-14 10:03:43,022 - INFO - Cast extracted for movie 1325734
+2026-05-14 10:03:43,942 - INFO - Cast extracted for movie 755898
+2026-05-14 10:03:44,865 - INFO - Cast extracted for movie 855435
+2026-05-14 10:03:45,785 - INFO - Cast extracted for movie 1414413
+2026-05-14 10:03:46,707 - INFO - Cast extracted for movie 510657
+2026-05-14 10:03:47,628 - INFO - Cast extracted for movie 1419406
+2026-05-14 10:03:48,550 - INFO - Cast extracted for movie 1171145
+2026-05-14 10:03:49,472 - INFO - Cast extracted for movie 1171145
+2026-05-14 10:03:50,479 - INFO - Cast extracted for movie 1579
+2026-05-14 10:03:51,419 - INFO - Cast extracted for movie 1368166
+2026-05-14 10:03:52,345 - INFO - Cast extracted for movie 840464
+2026-05-14 10:03:53,270 - INFO - Cast extracted for movie 157336
+2026-05-14 10:03:54,182 - INFO - Cast extracted for movie 7451
+2026-05-14 10:03:55,103 - INFO - Cast extracted for movie 1301421
+2026-05-14 10:03:56,026 - INFO - Cast extracted for movie 440249
+2026-05-14 10:03:56,947 - INFO - Cast extracted for movie 1173559
+2026-05-14 10:03:57,972 - INFO - Cast extracted for movie 1159559
+2026-05-14 10:03:58,996 - INFO - Cast extracted for movie 976912
+2026-05-14 10:03:59,917 - INFO - Cast extracted for movie 78192
+2026-05-14 10:04:00,997 - INFO - Cast extracted for movie 1383731
+2026-05-14 10:04:01,965 - INFO - Cast extracted for movie 278
+2026-05-14 10:04:03,090 - INFO - Cast extracted for movie 1207162
+2026-05-14 10:04:04,013 - INFO - Cast extracted for movie 848116
+2026-05-14 10:04:04,934 - INFO - Cast extracted for movie 184314
+2026-05-14 10:04:05,861 - INFO - Cast extracted for movie 24428
+2026-05-14 10:04:06,754 - INFO - Cast extracted for movie 458293
+2026-05-14 10:04:07,700 - INFO - Cast extracted for movie 1265609
+2026-05-14 10:04:08,621 - INFO - Cast extracted for movie 1177445
+2026-05-14 10:04:09,527 - INFO - Cast extracted for movie 502356
+2026-05-14 10:04:10,465 - INFO - Cast extracted for movie 1084577
+2026-05-14 10:04:11,550 - INFO - Cast extracted for movie 299536
+2026-05-14 10:04:12,614 - INFO - Cast extracted for movie 1317448
+2026-05-14 10:04:13,488 - INFO - Cast extracted for movie 441168
+2026-05-14 10:04:14,459 - INFO - Cast extracted for movie 1641319
+2026-05-14 10:04:15,380 - INFO - Cast extracted for movie 744275
+2026-05-14 10:04:16,405 - INFO - Cast extracted for movie 603
+2026-05-14 10:04:17,325 - INFO - Cast extracted for movie 1601797
+2026-05-14 10:04:18,351 - INFO - Cast extracted for movie 1316092
+2026-05-14 10:04:19,270 - INFO - Cast extracted for movie 1352874
+2026-05-14 10:04:20,193 - INFO - Cast extracted for movie 1368337
+2026-05-14 10:04:21,116 - INFO - Cast extracted for movie 1110034
+2026-05-14 10:04:22,099 - INFO - Cast extracted for movie 238
+2026-05-14 10:04:23,265 - INFO - Cast extracted for movie 27205
+2026-05-14 10:04:24,188 - INFO - Cast extracted for movie 1010581
+2026-05-14 10:04:25,107 - INFO - Cast extracted for movie 1534530
+2026-05-14 10:04:26,029 - INFO - Cast extracted for movie 911430
+2026-05-14 10:04:26,951 - INFO - Cast extracted for movie 1688652
+2026-05-14 10:04:27,873 - INFO - Cast extracted for movie 609681
+2026-05-14 10:04:28,897 - INFO - Cast extracted for movie 425274
+2026-05-14 10:04:29,819 - INFO - Cast extracted for movie 1196067
+2026-05-14 10:04:30,913 - INFO - Cast extracted for movie 122
+2026-05-14 10:04:31,874 - INFO - Cast extracted for movie 1336770
+2026-05-14 10:04:32,788 - INFO - Cast extracted for movie 155
+2026-05-14 10:04:33,812 - INFO - Cast extracted for movie 278986
+2026-05-14 10:04:34,706 - INFO - Cast extracted for movie 1038392
+2026-05-14 10:04:35,654 - INFO - Cast extracted for movie 82023
+2026-05-14 10:04:36,577 - INFO - Cast extracted for movie 1470130
+2026-05-14 10:04:37,804 - INFO - Cast extracted for movie 11013
+2026-05-14 10:04:38,789 - INFO - Cast extracted for movie 1087040
+2026-05-14 10:04:39,859 - INFO - Cast extracted for movie 1084187
+2026-05-14 10:04:40,777 - INFO - Cast extracted for movie 120
+2026-05-14 10:04:41,696 - INFO - Cast extracted for movie 1272837
+2026-05-14 10:04:42,621 - INFO - Cast extracted for movie 803796
+2026-05-14 10:04:43,602 - INFO - Cast extracted for movie 1234731
+2026-05-14 10:04:44,564 - INFO - Cast extracted for movie 967998
+2026-05-14 10:04:45,486 - INFO - Cast extracted for movie 479787
+2026-05-14 10:04:46,510 - INFO - Cast extracted for movie 496243
+2026-05-14 10:04:46,519 - INFO - All cast data extracted successfully
+2026-05-14 10:04:46,652 - INFO - Advanced transformation completed successfully
+2026-05-14 10:04:46,678 - INFO - Load validation completed successfully

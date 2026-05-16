@@ -1,0 +1,11 @@
+movie_id,title,release_date,rating,popularity,vote_count,language,adult,rating_category
+1007757,Swapped,2026-05-01,8.983,425.2006,780,en,False,Excellent
+687163,Project Hail Mary,2026-03-15,8.465,377.43,2825,en,False,Excellent
+1226863,The Super Mario Galaxy Movie,2026-04-01,6.691,365.6654,826,en,False,Average
+1439930,A Marvel Television Special Presentation - The Punisher: One Last Kill,2026-05-12,8.641,306.4791,277,en,False,Excellent
+1318447,Apex,2026-04-24,6.609,293.3476,923,en,False,Average
+350,The Devil Wears Prada,2006-06-29,7.4,286.1795,13349,en,False,Good
+1523145,Your Heart Will Be Broken,2026-03-26,6.799,233.9212,77,ru,False,Average
+1630423,My Dearest Assassin,2026-05-06,8.524,222.0731,123,th,False,Excellent
+931285,Mortal Kombat II,2026-05-06,7.01,217.8803,147,en,False,Good
+1198994,Send Help,2026-01-22,7.043,199.2239,1379,en,False,Good

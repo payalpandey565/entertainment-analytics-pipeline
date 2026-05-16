@@ -1,0 +1,3453 @@
+[
+    {
+        "movie_id": 1007757,
+        "actor_id": 135651,
+        "actor_name": "Michael B. Jordan",
+        "character": "Ollie (voice)",
+        "popularity": 6.6729
+    },
+    {
+        "movie_id": 1007757,
+        "actor_id": 36594,
+        "actor_name": "Juno Temple",
+        "character": "Ivy (voice)",
+        "popularity": 6.106
+    },
+    {
+        "movie_id": 1007757,
+        "actor_id": 56903,
+        "actor_name": "Tracy Morgan",
+        "character": "Boogle / Firewolf (voice)",
+        "popularity": 2.3706
+    },
+    {
+        "movie_id": 1007757,
+        "actor_id": 5726,
+        "actor_name": "Cedric the Entertainer",
+        "character": "Caloo (voice)",
+        "popularity": 2.1012
+    },
+    {
+        "movie_id": 1007757,
+        "actor_id": 95517,
+        "actor_name": "Justina Machado",
+        "character": "Calli (voice)",
+        "popularity": 1.7082
+    },
+    {
+        "movie_id": 1226863,
+        "actor_id": 73457,
+        "actor_name": "Chris Pratt",
+        "character": "Mario (voice)",
+        "popularity": 6.9273
+    },
+    {
+        "movie_id": 1226863,
+        "actor_id": 1397778,
+        "actor_name": "Anya Taylor-Joy",
+        "character": "Princess Peach (voice)",
+        "popularity": 12.1127
+    },
+    {
+        "movie_id": 1226863,
+        "actor_id": 95101,
+        "actor_name": "Charlie Day",
+        "character": "Luigi (voice)",
+        "popularity": 2.0271
+    },
+    {
+        "movie_id": 1226863,
+        "actor_id": 70851,
+        "actor_name": "Jack Black",
+        "character": "Bowser (voice)",
+        "popularity": 5.6394
+    },
+    {
+        "movie_id": 1226863,
+        "actor_id": 119589,
+        "actor_name": "Donald Glover",
+        "character": "Yoshi (voice)",
+        "popularity": 2.3891
+    },
+    {
+        "movie_id": 687163,
+        "actor_id": 30614,
+        "actor_name": "Ryan Gosling",
+        "character": "Ryland Grace",
+        "popularity": 11.3027
+    },
+    {
+        "movie_id": 687163,
+        "actor_id": 7152,
+        "actor_name": "Sandra H\u00fcller",
+        "character": "Eva Stratt",
+        "popularity": 4.6218
+    },
+    {
+        "movie_id": 687163,
+        "actor_id": 2096164,
+        "actor_name": "James Ortiz",
+        "character": "Rocky (voice)",
+        "popularity": 2.6643
+    },
+    {
+        "movie_id": 687163,
+        "actor_id": 2320708,
+        "actor_name": "Lionel Boyce",
+        "character": "Carl",
+        "popularity": 1.4559
+    },
+    {
+        "movie_id": 687163,
+        "actor_id": 1454946,
+        "actor_name": "Milana Vayntrub",
+        "character": "Olesya Ilyukhina",
+        "popularity": 8.7642
+    },
+    {
+        "movie_id": 1318447,
+        "actor_id": 6885,
+        "actor_name": "Charlize Theron",
+        "character": "Sasha",
+        "popularity": 10.312
+    },
+    {
+        "movie_id": 1318447,
+        "actor_id": 1303037,
+        "actor_name": "Taron Egerton",
+        "character": "Ben",
+        "popularity": 21.1223
+    },
+    {
+        "movie_id": 1318447,
+        "actor_id": 8783,
+        "actor_name": "Eric Bana",
+        "character": "Tommy",
+        "popularity": 4.4705
+    },
+    {
+        "movie_id": 1318447,
+        "actor_id": 145245,
+        "actor_name": "Caitlin Stasey",
+        "character": "Leah",
+        "popularity": 1.1877
+    },
+    {
+        "movie_id": 1318447,
+        "actor_id": 2933227,
+        "actor_name": "Bessie Holland",
+        "character": "Cashier",
+        "popularity": 0.5031
+    },
+    {
+        "movie_id": 1439930,
+        "actor_id": 19498,
+        "actor_name": "Jon Bernthal",
+        "character": "Frank Castle",
+        "popularity": 8.2564
+    },
+    {
+        "movie_id": 1439930,
+        "actor_id": 212154,
+        "actor_name": "Deborah Ann Woll",
+        "character": "Karen Page",
+        "popularity": 3.7745
+    },
+    {
+        "movie_id": 1439930,
+        "actor_id": 555252,
+        "actor_name": "Jason R. Moore",
+        "character": "Curtis Hoyle",
+        "popularity": 0.4158
+    },
+    {
+        "movie_id": 1439930,
+        "actor_id": 80415,
+        "actor_name": "Judith Light",
+        "character": "Ma",
+        "popularity": 1.7024
+    },
+    {
+        "movie_id": 1439930,
+        "actor_id": 968851,
+        "actor_name": "Kelli Barrett",
+        "character": "Maria Castle",
+        "popularity": 0.7489
+    },
+    {
+        "movie_id": 350,
+        "actor_id": 5064,
+        "actor_name": "Meryl Streep",
+        "character": "Miranda Priestly",
+        "popularity": 6.723
+    },
+    {
+        "movie_id": 350,
+        "actor_id": 1813,
+        "actor_name": "Anne Hathaway",
+        "character": "Andy Sachs",
+        "popularity": 21.8986
+    },
+    {
+        "movie_id": 350,
+        "actor_id": 5081,
+        "actor_name": "Emily Blunt",
+        "character": "Emily",
+        "popularity": 10.4353
+    },
+    {
+        "movie_id": 350,
+        "actor_id": 2283,
+        "actor_name": "Stanley Tucci",
+        "character": "Nigel",
+        "popularity": 7.4704
+    },
+    {
+        "movie_id": 350,
+        "actor_id": 1284159,
+        "actor_name": "Simon Baker",
+        "character": "Christian Thompson",
+        "popularity": 5.2352
+    },
+    {
+        "movie_id": 1523145,
+        "actor_id": 5598110,
+        "actor_name": "Daniel Vegas",
+        "character": "\u0411\u0430\u0440\u0441",
+        "popularity": 3.8077
+    },
+    {
+        "movie_id": 1523145,
+        "actor_id": 5037367,
+        "actor_name": "Veronika Zhuravleva",
+        "character": "\u041f\u043e\u043b\u0438\u043d\u0430",
+        "popularity": 3.5923
+    },
+    {
+        "movie_id": 1523145,
+        "actor_id": 4508505,
+        "actor_name": "Ivan Trushin",
+        "character": "\u041b\u044d\u0439\u043c",
+        "popularity": 0.8126
+    },
+    {
+        "movie_id": 1523145,
+        "actor_id": 2007622,
+        "actor_name": "Maksim Saprykin",
+        "character": "\u041b\u0435\u0445\u0430",
+        "popularity": 0.7522
+    },
+    {
+        "movie_id": 1523145,
+        "actor_id": 5654199,
+        "actor_name": "Alya Mayer",
+        "character": "\u0414\u0438\u043b\u0430\u0440\u0430",
+        "popularity": 0.3778
+    },
+    {
+        "movie_id": 1198994,
+        "actor_id": 53714,
+        "actor_name": "Rachel McAdams",
+        "character": "Linda Liddle",
+        "popularity": 7.667
+    },
+    {
+        "movie_id": 1198994,
+        "actor_id": 527393,
+        "actor_name": "Dylan O'Brien",
+        "character": "Bradley Preston",
+        "popularity": 6.9223
+    },
+    {
+        "movie_id": 1198994,
+        "actor_id": 4477127,
+        "actor_name": "Edyll Ismail",
+        "character": "Zuri",
+        "popularity": 1.1952
+    },
+    {
+        "movie_id": 1198994,
+        "actor_id": 352,
+        "actor_name": "Dennis Haysbert",
+        "character": "Franklin",
+        "popularity": 2.1772
+    },
+    {
+        "movie_id": 1198994,
+        "actor_id": 109438,
+        "actor_name": "Xavier Samuel",
+        "character": "Donovan",
+        "popularity": 1.0583
+    },
+    {
+        "movie_id": 931285,
+        "actor_id": 1372,
+        "actor_name": "Karl Urban",
+        "character": "Johnny Cage",
+        "popularity": 12.5597
+    },
+    {
+        "movie_id": 931285,
+        "actor_id": 2168270,
+        "actor_name": "Adeline Rudolph",
+        "character": "Kitana",
+        "popularity": 12.0991
+    },
+    {
+        "movie_id": 931285,
+        "actor_id": 136347,
+        "actor_name": "Jessica McNamee",
+        "character": "Sonya Blade",
+        "popularity": 3.2812
+    },
+    {
+        "movie_id": 931285,
+        "actor_id": 1525689,
+        "actor_name": "Ludi Lin",
+        "character": "Liu Kang",
+        "popularity": 3.1165
+    },
+    {
+        "movie_id": 931285,
+        "actor_id": 51684,
+        "actor_name": "Mehcad Brooks",
+        "character": "Jax",
+        "popularity": 2.2532
+    },
+    {
+        "movie_id": 1630423,
+        "actor_id": 127449,
+        "actor_name": "Pimchanok Luevisadpaibul",
+        "character": "Lhan",
+        "popularity": 2.2476
+    },
+    {
+        "movie_id": 1630423,
+        "actor_id": 1536085,
+        "actor_name": "Thanapob Leeratanakachorn",
+        "character": "Pran",
+        "popularity": 1.7476
+    },
+    {
+        "movie_id": 1630423,
+        "actor_id": 2247748,
+        "actor_name": "Sivakorn Adulsuttikul",
+        "character": "M",
+        "popularity": 1.3529
+    },
+    {
+        "movie_id": 1630423,
+        "actor_id": 1341880,
+        "actor_name": "Chartayodom Hiranyatithi",
+        "character": "Poh",
+        "popularity": 1.4779
+    },
+    {
+        "movie_id": 1630423,
+        "actor_id": 1177656,
+        "actor_name": "Theerachai Wimolchaireuk",
+        "character": "Pruek",
+        "popularity": 1.0043
+    },
+    {
+        "movie_id": 1266127,
+        "actor_id": 1372369,
+        "actor_name": "Samara Weaving",
+        "character": "Grace MacCaulley",
+        "popularity": 8.0251
+    },
+    {
+        "movie_id": 1266127,
+        "actor_id": 221192,
+        "actor_name": "Kathryn Newton",
+        "character": "Faith MacCaulley",
+        "popularity": 5.818
+    },
+    {
+        "movie_id": 1266127,
+        "actor_id": 109,
+        "actor_name": "Elijah Wood",
+        "character": "The Lawyer",
+        "popularity": 4.395
+    },
+    {
+        "movie_id": 1266127,
+        "actor_id": 11863,
+        "actor_name": "Sarah Michelle Gellar",
+        "character": "Ursula Danforth",
+        "popularity": 3.5773
+    },
+    {
+        "movie_id": 1266127,
+        "actor_id": 52647,
+        "actor_name": "Shawn Hatosy",
+        "character": "Titus Danforth",
+        "popularity": 3.3715
+    },
+    {
+        "movie_id": 83533,
+        "actor_id": 65731,
+        "actor_name": "Sam Worthington",
+        "character": "Jake",
+        "popularity": 4.924
+    },
+    {
+        "movie_id": 83533,
+        "actor_id": 8691,
+        "actor_name": "Zoe Salda\u00f1a",
+        "character": "Neytiri",
+        "popularity": 7.5801
+    },
+    {
+        "movie_id": 83533,
+        "actor_id": 10205,
+        "actor_name": "Sigourney Weaver",
+        "character": "Kiri",
+        "popularity": 6.3923
+    },
+    {
+        "movie_id": 83533,
+        "actor_id": 32747,
+        "actor_name": "Stephen Lang",
+        "character": "Quaritch",
+        "popularity": 3.9233
+    },
+    {
+        "movie_id": 83533,
+        "actor_id": 566331,
+        "actor_name": "Oona Chaplin",
+        "character": "Varang",
+        "popularity": 3.0413
+    },
+    {
+        "movie_id": 1327819,
+        "actor_id": 1308818,
+        "actor_name": "Piper Curda",
+        "character": "Mabel (voice)",
+        "popularity": 1.0803
+    },
+    {
+        "movie_id": 1327819,
+        "actor_id": 452205,
+        "actor_name": "Bobby Moynihan",
+        "character": "King George (voice)",
+        "popularity": 1.417
+    },
+    {
+        "movie_id": 1327819,
+        "actor_id": 65717,
+        "actor_name": "Jon Hamm",
+        "character": "Mayor Jerry Generazzo (voice)",
+        "popularity": 4.6862
+    },
+    {
+        "movie_id": 1327819,
+        "actor_id": 11074,
+        "actor_name": "Kathy Najimy",
+        "character": "Dr. Sam (voice)",
+        "popularity": 2.0835
+    },
+    {
+        "movie_id": 1327819,
+        "actor_id": 54697,
+        "actor_name": "Dave Franco",
+        "character": "Insect King (voice)",
+        "popularity": 4.1303
+    },
+    {
+        "movie_id": 936075,
+        "actor_id": 3898497,
+        "actor_name": "Jaafar Jackson",
+        "character": "Michael Jackson",
+        "popularity": 7.1976
+    },
+    {
+        "movie_id": 936075,
+        "actor_id": 91671,
+        "actor_name": "Colman Domingo",
+        "character": "Joseph Jackson",
+        "popularity": 4.8674
+    },
+    {
+        "movie_id": 936075,
+        "actor_id": 9781,
+        "actor_name": "Nia Long",
+        "character": "Katherine Jackson",
+        "popularity": 4.9177
+    },
+    {
+        "movie_id": 936075,
+        "actor_id": 4487890,
+        "actor_name": "Juliano Krue Valdi",
+        "character": "Young Michael Jackson",
+        "popularity": 0.9847
+    },
+    {
+        "movie_id": 936075,
+        "actor_id": 996701,
+        "actor_name": "Miles Teller",
+        "character": "John Branca",
+        "popularity": 6.0032
+    },
+    {
+        "movie_id": 1330021,
+        "actor_id": 35,
+        "actor_name": "Sally Field",
+        "character": "Tova Sullivan",
+        "popularity": 14.9028
+    },
+    {
+        "movie_id": 1330021,
+        "actor_id": 1700685,
+        "actor_name": "Lewis Pullman",
+        "character": "Cameron Cassmore",
+        "popularity": 10.8519
+    },
+    {
+        "movie_id": 1330021,
+        "actor_id": 17782,
+        "actor_name": "Colm Meaney",
+        "character": "Ethan Mack",
+        "popularity": 3.1988
+    },
+    {
+        "movie_id": 1330021,
+        "actor_id": 6720,
+        "actor_name": "Joan Chen",
+        "character": "Janice Kim",
+        "popularity": 3.4922
+    },
+    {
+        "movie_id": 1330021,
+        "actor_id": 1907,
+        "actor_name": "Kathy Baker",
+        "character": "Mary Ann Minetti",
+        "popularity": 2.058
+    },
+    {
+        "movie_id": 1292415,
+        "actor_id": 1229432,
+        "actor_name": "Daniel MacPherson",
+        "character": "Patton",
+        "popularity": 1.661
+    },
+    {
+        "movie_id": 1292415,
+        "actor_id": 216986,
+        "actor_name": "Luke Hemsworth",
+        "character": "Gabriel",
+        "popularity": 2.1031
+    },
+    {
+        "movie_id": 1292415,
+        "actor_id": 934,
+        "actor_name": "Russell Crowe",
+        "character": "Sammy",
+        "popularity": 4.0467
+    },
+    {
+        "movie_id": 1292415,
+        "actor_id": 1375499,
+        "actor_name": "Mojean Aria",
+        "character": "Malon James",
+        "popularity": 0.8169
+    },
+    {
+        "movie_id": 1292415,
+        "actor_id": 1701014,
+        "actor_name": "Kelly Gale",
+        "character": "Luciana",
+        "popularity": 1.1395
+    },
+    {
+        "movie_id": 10867,
+        "actor_id": 28782,
+        "actor_name": "Monica Bellucci",
+        "character": "Mal\u00e8na Scordia",
+        "popularity": 13.7978
+    },
+    {
+        "movie_id": 10867,
+        "actor_id": 67612,
+        "actor_name": "Giuseppe Sulfaro",
+        "character": "Renato Amoroso",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 10867,
+        "actor_id": 67613,
+        "actor_name": "Luciano Federico",
+        "character": "Renato's Father",
+        "popularity": 0.3373
+    },
+    {
+        "movie_id": 10867,
+        "actor_id": 67614,
+        "actor_name": "Matilde Piana",
+        "character": "Renato's Mother",
+        "popularity": 0.4424
+    },
+    {
+        "movie_id": 10867,
+        "actor_id": 15134,
+        "actor_name": "Pietro Notarianni",
+        "character": "Prof. Bonsignore",
+        "popularity": 0.2631
+    },
+    {
+        "movie_id": 1669050,
+        "actor_id": 5420126,
+        "actor_name": "Ashley Lopez",
+        "character": "Rhea",
+        "popularity": 16.0871
+    },
+    {
+        "movie_id": 1669050,
+        "actor_id": 5630057,
+        "actor_name": "Marco Mora",
+        "character": "Marco",
+        "popularity": 1.1474
+    },
+    {
+        "movie_id": 1669050,
+        "actor_id": 4127373,
+        "actor_name": "Chester Grecia",
+        "character": "Rico",
+        "popularity": 2.4606
+    },
+    {
+        "movie_id": 1669050,
+        "actor_id": 5932495,
+        "actor_name": "Dara Lima",
+        "character": "Arlene",
+        "popularity": 0.6038
+    },
+    {
+        "movie_id": 1669050,
+        "actor_id": 5765088,
+        "actor_name": "Adriana Roces",
+        "character": "Len",
+        "popularity": 1.047
+    },
+    {
+        "movie_id": 1241752,
+        "actor_id": 3371804,
+        "actor_name": "Christine Bermas",
+        "character": "Rita",
+        "popularity": 10.6878
+    },
+    {
+        "movie_id": 1241752,
+        "actor_id": 1649625,
+        "actor_name": "Gold Aceron",
+        "character": "Marlon",
+        "popularity": 0.9656
+    },
+    {
+        "movie_id": 1241752,
+        "actor_id": 2876771,
+        "actor_name": "VR Relosa",
+        "character": "Ariel",
+        "popularity": 0.601
+    },
+    {
+        "movie_id": 1241752,
+        "actor_id": 592006,
+        "actor_name": "Josh Ivan Morales",
+        "character": "Royce",
+        "popularity": 0.3904
+    },
+    {
+        "movie_id": 1241752,
+        "actor_id": 3878171,
+        "actor_name": "Sahil Khan",
+        "character": "Arabo",
+        "popularity": 0.1139
+    },
+    {
+        "movie_id": 1613798,
+        "actor_id": 1134885,
+        "actor_name": "Omar Chaparro",
+        "character": "Carlos Estrada",
+        "popularity": 3.1313
+    },
+    {
+        "movie_id": 1613798,
+        "actor_id": 1889622,
+        "actor_name": "Alejandro Speitzer",
+        "character": "Miguel D\u00edaz",
+        "popularity": 2.6786
+    },
+    {
+        "movie_id": 1613798,
+        "actor_id": 544442,
+        "actor_name": "Paola Nu\u00f1ez",
+        "character": "Cnel. Gabriela Rangel",
+        "popularity": 4.2971
+    },
+    {
+        "movie_id": 1613798,
+        "actor_id": 3514938,
+        "actor_name": "Natalia Soli\u00e1n",
+        "character": "Dolores Ramirez 'Lola'",
+        "popularity": 1.5413
+    },
+    {
+        "movie_id": 1613798,
+        "actor_id": 1309460,
+        "actor_name": "Luis Alberti",
+        "character": "Aurelio Salazar 'Chunco'",
+        "popularity": 0.6923
+    },
+    {
+        "movie_id": 460465,
+        "actor_id": 1610940,
+        "actor_name": "Lewis Tan",
+        "character": "Cole Young",
+        "popularity": 3.9809
+    },
+    {
+        "movie_id": 460465,
+        "actor_id": 136347,
+        "actor_name": "Jessica McNamee",
+        "character": "Sonya Blade",
+        "popularity": 3.2812
+    },
+    {
+        "movie_id": 460465,
+        "actor_id": 51684,
+        "actor_name": "Mehcad Brooks",
+        "character": "Jax",
+        "popularity": 2.2532
+    },
+    {
+        "movie_id": 460465,
+        "actor_id": 189230,
+        "actor_name": "Josh Lawson",
+        "character": "Kano",
+        "popularity": 1.803
+    },
+    {
+        "movie_id": 460465,
+        "actor_id": 1525689,
+        "actor_name": "Ludi Lin",
+        "character": "Liu Kang",
+        "popularity": 3.1165
+    },
+    {
+        "movie_id": 1292695,
+        "actor_id": 1545693,
+        "actor_name": "Zazie Beetz",
+        "character": "Asia Reaves",
+        "popularity": 4.0159
+    },
+    {
+        "movie_id": 1292695,
+        "actor_id": 2673750,
+        "actor_name": "Myha'la",
+        "character": "Maria Reaves",
+        "popularity": 0.7684
+    },
+    {
+        "movie_id": 1292695,
+        "actor_id": 4687,
+        "actor_name": "Patricia Arquette",
+        "character": "Lily Woodhouse",
+        "popularity": 2.4403
+    },
+    {
+        "movie_id": 1292695,
+        "actor_id": 19868,
+        "actor_name": "Paterson Joseph",
+        "character": "Ray Woodhouse",
+        "popularity": 1.2062
+    },
+    {
+        "movie_id": 1292695,
+        "actor_id": 69122,
+        "actor_name": "Heather Graham",
+        "character": "Sharon",
+        "popularity": 2.8113
+    },
+    {
+        "movie_id": 1426822,
+        "actor_id": 3899035,
+        "actor_name": "Deniella Alexis",
+        "character": "Jessie",
+        "popularity": 0.0311
+    },
+    {
+        "movie_id": 1426822,
+        "actor_id": 3871127,
+        "actor_name": "Kevin Lloyd Reid",
+        "character": "Murphy",
+        "popularity": 0.0441
+    },
+    {
+        "movie_id": 1426822,
+        "actor_id": 1073806,
+        "actor_name": "Mark Ettlinger",
+        "character": "Alexander",
+        "popularity": 0.0338
+    },
+    {
+        "movie_id": 1426822,
+        "actor_id": 4945933,
+        "actor_name": "Madison Caan",
+        "character": "Bailey",
+        "popularity": 0.0621
+    },
+    {
+        "movie_id": 1426822,
+        "actor_id": 1529621,
+        "actor_name": "Reece Presley",
+        "character": "Sam",
+        "popularity": 0.2981
+    },
+    {
+        "movie_id": 1314481,
+        "actor_id": 5064,
+        "actor_name": "Meryl Streep",
+        "character": "Miranda Priestly",
+        "popularity": 7.5152
+    },
+    {
+        "movie_id": 1314481,
+        "actor_id": 1813,
+        "actor_name": "Anne Hathaway",
+        "character": "Andy Sachs",
+        "popularity": 26.3067
+    },
+    {
+        "movie_id": 1314481,
+        "actor_id": 5081,
+        "actor_name": "Emily Blunt",
+        "character": "Emily",
+        "popularity": 11.6691
+    },
+    {
+        "movie_id": 1314481,
+        "actor_id": 2283,
+        "actor_name": "Stanley Tucci",
+        "character": "Nigel",
+        "popularity": 7.1212
+    },
+    {
+        "movie_id": 1314481,
+        "actor_id": 15009,
+        "actor_name": "Justin Theroux",
+        "character": "Benji Barnes",
+        "popularity": 4.8917
+    },
+    {
+        "movie_id": 1290821,
+        "actor_id": 976,
+        "actor_name": "Jason Statham",
+        "character": "Mason",
+        "popularity": 16.4218
+    },
+    {
+        "movie_id": 1290821,
+        "actor_id": 4088089,
+        "actor_name": "Bodhi Rae Breathnach",
+        "character": "Jesse",
+        "popularity": 1.6685
+    },
+    {
+        "movie_id": 1290821,
+        "actor_id": 1537686,
+        "actor_name": "Naomi Ackie",
+        "character": "Roberta",
+        "popularity": 1.2139
+    },
+    {
+        "movie_id": 1290821,
+        "actor_id": 1670,
+        "actor_name": "Daniel Mays",
+        "character": "Booth",
+        "popularity": 2.664
+    },
+    {
+        "movie_id": 1290821,
+        "actor_id": 17477,
+        "actor_name": "Harriet Walter",
+        "character": "Prime Minister Fordham",
+        "popularity": 1.8884
+    },
+    {
+        "movie_id": 980431,
+        "actor_id": 1610783,
+        "actor_name": "Eric Nam",
+        "character": "Aang (voice)",
+        "popularity": 0.9606
+    },
+    {
+        "movie_id": 980431,
+        "actor_id": 543530,
+        "actor_name": "Dave Bautista",
+        "character": "Tagah (voice)",
+        "popularity": 5.9391
+    },
+    {
+        "movie_id": 980431,
+        "actor_id": 1703912,
+        "actor_name": "Jessica Matten",
+        "character": "Katara (voice)",
+        "popularity": 1.2934
+    },
+    {
+        "movie_id": 980431,
+        "actor_id": 2775164,
+        "actor_name": "Rom\u00e1n Zaragoza",
+        "character": "Sokka (voice)",
+        "popularity": 0.7535
+    },
+    {
+        "movie_id": 980431,
+        "actor_id": 215055,
+        "actor_name": "Steven Yeun",
+        "character": "Zuko (voice)",
+        "popularity": 3.1982
+    },
+    {
+        "movie_id": 1038918,
+        "actor_id": 1106204,
+        "actor_name": "Shin'ya Ohwada",
+        "character": "",
+        "popularity": 1.6476
+    },
+    {
+        "movie_id": 1038918,
+        "actor_id": 1853586,
+        "actor_name": "Ayako Takaishi",
+        "character": "",
+        "popularity": 1.0698
+    },
+    {
+        "movie_id": 1038918,
+        "actor_id": 1014843,
+        "actor_name": "Ky\u014dko Aizome",
+        "character": "",
+        "popularity": 2.5565
+    },
+    {
+        "movie_id": 1311031,
+        "actor_id": 1256603,
+        "actor_name": "Natsuki Hanae",
+        "character": "Tanjiro Kamado (voice)",
+        "popularity": 2.6167
+    },
+    {
+        "movie_id": 1311031,
+        "actor_id": 9705,
+        "actor_name": "Takahiro Sakurai",
+        "character": "Giyu Tomioka (voice)",
+        "popularity": 2.7584
+    },
+    {
+        "movie_id": 1311031,
+        "actor_id": 81244,
+        "actor_name": "Akira Ishida",
+        "character": "Akaza (voice)",
+        "popularity": 3.3132
+    },
+    {
+        "movie_id": 1311031,
+        "actor_id": 119145,
+        "actor_name": "Hiro Shimono",
+        "character": "Zenitsu Agatsuma (voice)",
+        "popularity": 2.1176
+    },
+    {
+        "movie_id": 1311031,
+        "actor_id": 1253008,
+        "actor_name": "Yoshimasa Hosoya",
+        "character": "Kaigaku (voice)",
+        "popularity": 2.3406
+    },
+    {
+        "movie_id": 1084242,
+        "actor_id": 417,
+        "actor_name": "Ginnifer Goodwin",
+        "character": "Judy Hopps (voice)",
+        "popularity": 2.791
+    },
+    {
+        "movie_id": 1084242,
+        "actor_id": 23532,
+        "actor_name": "Jason Bateman",
+        "character": "Nick Wilde (voice)",
+        "popularity": 4.6299
+    },
+    {
+        "movie_id": 1084242,
+        "actor_id": 690,
+        "actor_name": "Ke Huy Quan",
+        "character": "Gary De'Snake (voice)",
+        "popularity": 3.9058
+    },
+    {
+        "movie_id": 1084242,
+        "actor_id": 1183672,
+        "actor_name": "Fortune Feimster",
+        "character": "Nibbles Maplestick (voice)",
+        "popularity": 1.138
+    },
+    {
+        "movie_id": 1084242,
+        "actor_id": 62861,
+        "actor_name": "Andy Samberg",
+        "character": "Pawbert Lynxley (voice)",
+        "popularity": 3.9599
+    },
+    {
+        "movie_id": 1235192,
+        "actor_id": 3272460,
+        "actor_name": "Caitlin McWethy",
+        "character": "Jess",
+        "popularity": 0.045
+    },
+    {
+        "movie_id": 1235192,
+        "actor_id": 5321687,
+        "actor_name": "Rachel Ryu",
+        "character": "Kara",
+        "popularity": 0.0193
+    },
+    {
+        "movie_id": 1235192,
+        "actor_id": 2395462,
+        "actor_name": "Emily Soppe",
+        "character": "Rose",
+        "popularity": 0.0445
+    },
+    {
+        "movie_id": 1235192,
+        "actor_id": 2967101,
+        "actor_name": "Maggie Lou Rader",
+        "character": "Alice",
+        "popularity": 0.0414
+    },
+    {
+        "movie_id": 1235192,
+        "actor_id": 4683879,
+        "actor_name": "A.J. Baldwin",
+        "character": "Dudette",
+        "popularity": 0.0872
+    },
+    {
+        "movie_id": 1510745,
+        "actor_id": 1476624,
+        "actor_name": "Jaime M. Callica",
+        "character": "Officer Jackson",
+        "popularity": 0.4656
+    },
+    {
+        "movie_id": 1510745,
+        "actor_id": 169747,
+        "actor_name": "Sean Rogerson",
+        "character": "Officer Bryce",
+        "popularity": 0.4464
+    },
+    {
+        "movie_id": 1510745,
+        "actor_id": 77622,
+        "actor_name": "Catherine Lough Haggquist",
+        "character": "Ally Jackson",
+        "popularity": 0.6688
+    },
+    {
+        "movie_id": 1510745,
+        "actor_id": 3536923,
+        "actor_name": "Angel Prater",
+        "character": "Esposito",
+        "popularity": 0.172
+    },
+    {
+        "movie_id": 1510745,
+        "actor_id": 42710,
+        "actor_name": "Keegan Connor Tracy",
+        "character": "The Mother",
+        "popularity": 1.6183
+    },
+    {
+        "movie_id": 249397,
+        "actor_id": 4273,
+        "actor_name": "Charlotte Gainsbourg",
+        "character": "Joe",
+        "popularity": 2.4041
+    },
+    {
+        "movie_id": 249397,
+        "actor_id": 1640,
+        "actor_name": "Stellan Skarsg\u00e5rd",
+        "character": "Seligman",
+        "popularity": 3.5164
+    },
+    {
+        "movie_id": 249397,
+        "actor_id": 1137823,
+        "actor_name": "Stacy Martin",
+        "character": "Young Joe",
+        "popularity": 1.6792
+    },
+    {
+        "movie_id": 249397,
+        "actor_id": 10959,
+        "actor_name": "Shia LaBeouf",
+        "character": "Jer\u00f4me",
+        "popularity": 3.3118
+    },
+    {
+        "movie_id": 249397,
+        "actor_id": 5293,
+        "actor_name": "Willem Dafoe",
+        "character": "L",
+        "popularity": 4.2279
+    },
+    {
+        "movie_id": 1242898,
+        "actor_id": 18050,
+        "actor_name": "Elle Fanning",
+        "character": "Thia / Tessa",
+        "popularity": 18.8666
+    },
+    {
+        "movie_id": 1242898,
+        "actor_id": 3223391,
+        "actor_name": "Dimitrius Schuster-Koloamatangi",
+        "character": "Dek / Father",
+        "popularity": 0.5067
+    },
+    {
+        "movie_id": 1242898,
+        "actor_id": 1891826,
+        "actor_name": "Ravi Narayan",
+        "character": "Bud",
+        "popularity": 0.1909
+    },
+    {
+        "movie_id": 1242898,
+        "actor_id": 2253146,
+        "actor_name": "Michael Homick",
+        "character": "Kwei (Suit)",
+        "popularity": 0.3504
+    },
+    {
+        "movie_id": 1242898,
+        "actor_id": 1636658,
+        "actor_name": "Stefan Grube",
+        "character": "Kwei (voice)",
+        "popularity": 0.5483
+    },
+    {
+        "movie_id": 1325734,
+        "actor_id": 505710,
+        "actor_name": "Zendaya",
+        "character": "Emma Harwood",
+        "popularity": 9.4773
+    },
+    {
+        "movie_id": 1325734,
+        "actor_id": 11288,
+        "actor_name": "Robert Pattinson",
+        "character": "Charlie Thompson",
+        "popularity": 5.7134
+    },
+    {
+        "movie_id": 1325734,
+        "actor_id": 1639848,
+        "actor_name": "Mamoudou Athie",
+        "character": "Mike",
+        "popularity": 1.393
+    },
+    {
+        "movie_id": 1325734,
+        "actor_id": 1741367,
+        "actor_name": "Alana Haim",
+        "character": "Rachel",
+        "popularity": 2.198
+    },
+    {
+        "movie_id": 1325734,
+        "actor_id": 2482808,
+        "actor_name": "Jordyn Curet",
+        "character": "Young Emma",
+        "popularity": 0.5944
+    },
+    {
+        "movie_id": 755898,
+        "actor_id": 9778,
+        "actor_name": "Ice Cube",
+        "character": "William Radford",
+        "popularity": 2.5469
+    },
+    {
+        "movie_id": 755898,
+        "actor_id": 52605,
+        "actor_name": "Eva Longoria",
+        "character": "NASA Scientist Sandra Salas",
+        "popularity": 2.7506
+    },
+    {
+        "movie_id": 755898,
+        "actor_id": 9048,
+        "actor_name": "Clark Gregg",
+        "character": "NSA Director Donald Briggs",
+        "popularity": 1.9039
+    },
+    {
+        "movie_id": 755898,
+        "actor_id": 1632530,
+        "actor_name": "Iman Benson",
+        "character": "Faith Radford",
+        "popularity": 0.4652
+    },
+    {
+        "movie_id": 755898,
+        "actor_id": 60482,
+        "actor_name": "Henry Hunter Hall",
+        "character": "David Radford",
+        "popularity": 0.5389
+    },
+    {
+        "movie_id": 855435,
+        "actor_id": 2340185,
+        "actor_name": "Barbie Ferreira",
+        "character": "Margot Romero",
+        "popularity": 2.2033
+    },
+    {
+        "movie_id": 855435,
+        "actor_id": 1525047,
+        "actor_name": "Dacre Montgomery",
+        "character": "Arthur Spevak",
+        "popularity": 1.9237
+    },
+    {
+        "movie_id": 855435,
+        "actor_id": 1520451,
+        "actor_name": "Josie Totah",
+        "character": "Samantha Gravinsky",
+        "popularity": 1.1139
+    },
+    {
+        "movie_id": 855435,
+        "actor_id": 3057748,
+        "actor_name": "Aaron Holliday",
+        "character": "Ryan",
+        "popularity": 0.4001
+    },
+    {
+        "movie_id": 855435,
+        "actor_id": 1488960,
+        "actor_name": "Jermaine Fowler",
+        "character": "Josh",
+        "popularity": 1.1679
+    },
+    {
+        "movie_id": 1414413,
+        "actor_id": 2628,
+        "actor_name": "Kiefer Sutherland",
+        "character": "Capt. Jordan Wright",
+        "popularity": 4.3297
+    },
+    {
+        "movie_id": 1414413,
+        "actor_id": 2088733,
+        "actor_name": "Tommy Martinez",
+        "character": "Alberto",
+        "popularity": 0.6372
+    },
+    {
+        "movie_id": 1414413,
+        "actor_id": 1152019,
+        "actor_name": "Ashton Sanders",
+        "character": "Carson",
+        "popularity": 0.8828
+    },
+    {
+        "movie_id": 1414413,
+        "actor_id": 3060978,
+        "actor_name": "Solly McLeod",
+        "character": "Danny",
+        "popularity": 0.6409
+    },
+    {
+        "movie_id": 1414413,
+        "actor_id": 1652056,
+        "actor_name": "Laura Osma",
+        "character": "Isabella",
+        "popularity": 0.6335
+    },
+    {
+        "movie_id": 510657,
+        "actor_id": 15293,
+        "actor_name": "Keisha Castle-Hughes",
+        "character": "Deputy Gracie Marsh",
+        "popularity": 1.3681
+    },
+    {
+        "movie_id": 510657,
+        "actor_id": 101847,
+        "actor_name": "Lance E. Nichols",
+        "character": "Sheriff Bradley",
+        "popularity": 0.8473
+    },
+    {
+        "movie_id": 510657,
+        "actor_id": 1049795,
+        "actor_name": "Camille Balsamo",
+        "character": "Laura Harper",
+        "popularity": 0.0906
+    },
+    {
+        "movie_id": 510657,
+        "actor_id": 1446479,
+        "actor_name": "Reid Collums",
+        "character": "Nick Harper",
+        "popularity": 0.109
+    },
+    {
+        "movie_id": 510657,
+        "actor_id": 1995250,
+        "actor_name": "Siena D'Addario",
+        "character": "Victoria",
+        "popularity": 0.0518
+    },
+    {
+        "movie_id": 1419406,
+        "actor_id": 18897,
+        "actor_name": "Jackie Chan",
+        "character": "Wong Tak Chung",
+        "popularity": 17.1208
+    },
+    {
+        "movie_id": 1419406,
+        "actor_id": 1173805,
+        "actor_name": "Zhang Zifeng",
+        "character": "He Qiuguo",
+        "popularity": 1.9863
+    },
+    {
+        "movie_id": 1419406,
+        "actor_id": 56861,
+        "actor_name": "Tony Leung Ka-fai",
+        "character": "Fu Longsheng",
+        "popularity": 3.3315
+    },
+    {
+        "movie_id": 1419406,
+        "actor_id": 3167855,
+        "actor_name": "Ci Sha",
+        "character": "Xi Meng / Xi Wang",
+        "popularity": 5.4345
+    },
+    {
+        "movie_id": 1419406,
+        "actor_id": 1625880,
+        "actor_name": "Jun",
+        "character": "Hu Feng",
+        "popularity": 1.3658
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 74568,
+        "actor_name": "Chris Hemsworth",
+        "character": "Davis",
+        "popularity": 10.7456
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 103,
+        "actor_name": "Mark Ruffalo",
+        "character": "Lou",
+        "popularity": 4.287
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 4587,
+        "actor_name": "Halle Berry",
+        "character": "Sharon",
+        "popularity": 8.9991
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 1290466,
+        "actor_name": "Barry Keoghan",
+        "character": "Ormon",
+        "popularity": 3.104
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 1525043,
+        "actor_name": "Monica Barbaro",
+        "character": "Maya",
+        "popularity": 3.5252
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 74568,
+        "actor_name": "Chris Hemsworth",
+        "character": "Davis",
+        "popularity": 10.7456
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 103,
+        "actor_name": "Mark Ruffalo",
+        "character": "Lou",
+        "popularity": 4.287
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 4587,
+        "actor_name": "Halle Berry",
+        "character": "Sharon",
+        "popularity": 8.9991
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 1290466,
+        "actor_name": "Barry Keoghan",
+        "character": "Ormon",
+        "popularity": 3.104
+    },
+    {
+        "movie_id": 1171145,
+        "actor_id": 1525043,
+        "actor_name": "Monica Barbaro",
+        "character": "Maya",
+        "popularity": 3.5252
+    },
+    {
+        "movie_id": 1579,
+        "actor_id": 17678,
+        "actor_name": "Rudy Youngblood",
+        "character": "Jaguar Paw",
+        "popularity": 1.5076
+    },
+    {
+        "movie_id": 1579,
+        "actor_id": 17688,
+        "actor_name": "Raoul Max Trujillo",
+        "character": "Zero Wolf",
+        "popularity": 1.4528
+    },
+    {
+        "movie_id": 1579,
+        "actor_id": 17689,
+        "actor_name": "Gerardo Taracena",
+        "character": "Middle Eye",
+        "popularity": 0.6652
+    },
+    {
+        "movie_id": 1579,
+        "actor_id": 42009,
+        "actor_name": "Iazua Larios",
+        "character": "Sky Flower",
+        "popularity": 1.7422
+    },
+    {
+        "movie_id": 1579,
+        "actor_id": 62477,
+        "actor_name": "Antonio Monroy",
+        "character": "Chilam",
+        "popularity": 0.2004
+    },
+    {
+        "movie_id": 1368166,
+        "actor_id": 115440,
+        "actor_name": "Sydney Sweeney",
+        "character": "Millie Calloway",
+        "popularity": 37.013
+    },
+    {
+        "movie_id": 1368166,
+        "actor_id": 71070,
+        "actor_name": "Amanda Seyfried",
+        "character": "Nina Winchester",
+        "popularity": 8.1321
+    },
+    {
+        "movie_id": 1368166,
+        "actor_id": 1855143,
+        "actor_name": "Brandon Sklenar",
+        "character": "Andrew Winchester",
+        "popularity": 3.6991
+    },
+    {
+        "movie_id": 1368166,
+        "actor_id": 2349355,
+        "actor_name": "Michele Morrone",
+        "character": "Enzo",
+        "popularity": 8.2048
+    },
+    {
+        "movie_id": 1368166,
+        "actor_id": 20,
+        "actor_name": "Elizabeth Perkins",
+        "character": "Mrs. Winchester",
+        "popularity": 2.7414
+    },
+    {
+        "movie_id": 840464,
+        "actor_id": 17276,
+        "actor_name": "Gerard Butler",
+        "character": "John Garrity",
+        "popularity": 6.9461
+    },
+    {
+        "movie_id": 840464,
+        "actor_id": 54882,
+        "actor_name": "Morena Baccarin",
+        "character": "Allison Garrity",
+        "popularity": 10.8912
+    },
+    {
+        "movie_id": 840464,
+        "actor_id": 2054851,
+        "actor_name": "Roman Griffin Davis",
+        "character": "Nathan Garrity",
+        "popularity": 0.9541
+    },
+    {
+        "movie_id": 840464,
+        "actor_id": 1754784,
+        "actor_name": "Tommie Earl Jenkins",
+        "character": "General Sharpe",
+        "popularity": 0.4481
+    },
+    {
+        "movie_id": 840464,
+        "actor_id": 85151,
+        "actor_name": "Trond Fausa Aurv\u00e5g",
+        "character": "Adam Shaw",
+        "popularity": 0.8127
+    },
+    {
+        "movie_id": 157336,
+        "actor_id": 10297,
+        "actor_name": "Matthew McConaughey",
+        "character": "Cooper",
+        "popularity": 6.8028
+    },
+    {
+        "movie_id": 157336,
+        "actor_id": 1813,
+        "actor_name": "Anne Hathaway",
+        "character": "Brand",
+        "popularity": 26.3067
+    },
+    {
+        "movie_id": 157336,
+        "actor_id": 3895,
+        "actor_name": "Michael Caine",
+        "character": "Professor Brand",
+        "popularity": 2.9838
+    },
+    {
+        "movie_id": 157336,
+        "actor_id": 83002,
+        "actor_name": "Jessica Chastain",
+        "character": "Murph",
+        "popularity": 4.9084
+    },
+    {
+        "movie_id": 157336,
+        "actor_id": 1893,
+        "actor_name": "Casey Affleck",
+        "character": "Tom",
+        "popularity": 3.1486
+    },
+    {
+        "movie_id": 7451,
+        "actor_id": 12835,
+        "actor_name": "Vin Diesel",
+        "character": "Xander Cage",
+        "popularity": 8.8937
+    },
+    {
+        "movie_id": 7451,
+        "actor_id": 18514,
+        "actor_name": "Asia Argento",
+        "character": "Yelena",
+        "popularity": 4.0108
+    },
+    {
+        "movie_id": 7451,
+        "actor_id": 20982,
+        "actor_name": "Marton Csokas",
+        "character": "Yorgi",
+        "popularity": 2.4518
+    },
+    {
+        "movie_id": 7451,
+        "actor_id": 2231,
+        "actor_name": "Samuel L. Jackson",
+        "character": "Agent Augustus Gibbons",
+        "popularity": 8.3132
+    },
+    {
+        "movie_id": 7451,
+        "actor_id": 53347,
+        "actor_name": "Michael Roof",
+        "character": "Agent Toby Lee Shavers",
+        "popularity": 0.3591
+    },
+    {
+        "movie_id": 1301421,
+        "actor_id": 6968,
+        "actor_name": "Hugh Jackman",
+        "character": "George Hardy",
+        "popularity": 6.6301
+    },
+    {
+        "movie_id": 1301421,
+        "actor_id": 15886,
+        "actor_name": "Julia Louis-Dreyfus",
+        "character": "Lily (voice)",
+        "popularity": 2.9493
+    },
+    {
+        "movie_id": 1301421,
+        "actor_id": 7056,
+        "actor_name": "Emma Thompson",
+        "character": "Lydia Harbottle",
+        "popularity": 8.5097
+    },
+    {
+        "movie_id": 1301421,
+        "actor_id": 85139,
+        "actor_name": "Nicholas Braun",
+        "character": "Tim Derry",
+        "popularity": 1.7359
+    },
+    {
+        "movie_id": 1301421,
+        "actor_id": 1425934,
+        "actor_name": "Nicholas Galitzine",
+        "character": "Elliot Matthews",
+        "popularity": 5.7187
+    },
+    {
+        "movie_id": 440249,
+        "actor_id": 44936,
+        "actor_name": "Ginger Lynn",
+        "character": "Self - Former Porn Star",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 440249,
+        "actor_id": 108562,
+        "actor_name": "Lisa Ann",
+        "character": "Self - Former Porn Star",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 440249,
+        "actor_id": 75926,
+        "actor_name": "Janine Lindemulder",
+        "character": "Self - Former Porn Star",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 440249,
+        "actor_id": 544069,
+        "actor_name": "Chasey Lain",
+        "character": "Self - Former Porn Star",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 440249,
+        "actor_id": 228692,
+        "actor_name": "Tabitha Stevens",
+        "character": "Self - Former Porn Star",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 1173559,
+        "actor_id": 3692778,
+        "actor_name": "Stephanie Leet",
+        "character": "Monica Duvalier",
+        "popularity": 0.0667
+    },
+    {
+        "movie_id": 1173559,
+        "actor_id": 3979383,
+        "actor_name": "Neil Green",
+        "character": "Andre Duvalier",
+        "popularity": 0.0281
+    },
+    {
+        "movie_id": 1173559,
+        "actor_id": 3503484,
+        "actor_name": "Chynna Rae Shurts",
+        "character": "Mary",
+        "popularity": 0.1313
+    },
+    {
+        "movie_id": 1173559,
+        "actor_id": 3633186,
+        "actor_name": "Steve Larkin",
+        "character": "Dorian Tobin Ryan III",
+        "popularity": 0.1499
+    },
+    {
+        "movie_id": 1173559,
+        "actor_id": 3633195,
+        "actor_name": "Erik Skybak",
+        "character": "Cameron",
+        "popularity": 0.0432
+    },
+    {
+        "movie_id": 1159559,
+        "actor_id": 9206,
+        "actor_name": "Neve Campbell",
+        "character": "Sidney Evans",
+        "popularity": 2.7741
+    },
+    {
+        "movie_id": 1159559,
+        "actor_id": 14405,
+        "actor_name": "Courteney Cox",
+        "character": "Gale Weathers",
+        "popularity": 3.9665
+    },
+    {
+        "movie_id": 1159559,
+        "actor_id": 1972974,
+        "actor_name": "Isabel May",
+        "character": "Tatum Evans",
+        "popularity": 4.4328
+    },
+    {
+        "movie_id": 1159559,
+        "actor_id": 1508653,
+        "actor_name": "Jasmin Savoy Brown",
+        "character": "Mindy Meeks-Martin",
+        "popularity": 1.0566
+    },
+    {
+        "movie_id": 1159559,
+        "actor_id": 2174509,
+        "actor_name": "Mason Gooding",
+        "character": "Chad Meeks-Martin",
+        "popularity": 1.7107
+    },
+    {
+        "movie_id": 976912,
+        "actor_id": 1085939,
+        "actor_name": "David Wayman",
+        "character": "Franklin",
+        "popularity": 0.2418
+    },
+    {
+        "movie_id": 976912,
+        "actor_id": 2667809,
+        "actor_name": "Sian Altman",
+        "character": "Candida",
+        "popularity": 0.3454
+    },
+    {
+        "movie_id": 976912,
+        "actor_id": 3367977,
+        "actor_name": "May Kelly",
+        "character": "Atlanta / Lucinda",
+        "popularity": 0.5359
+    },
+    {
+        "movie_id": 976912,
+        "actor_id": 3320644,
+        "actor_name": "Ocean M Harris",
+        "character": "Brandon",
+        "popularity": 0.108
+    },
+    {
+        "movie_id": 976912,
+        "actor_id": 1865766,
+        "actor_name": "Valis Volkova",
+        "character": "Cooper",
+        "popularity": 0.1759
+    },
+    {
+        "movie_id": 78192,
+        "actor_id": 82702,
+        "actor_name": "Michael Jackson",
+        "character": "Self (archive footage)",
+        "popularity": 3.889
+    },
+    {
+        "movie_id": 78192,
+        "actor_id": 2452786,
+        "actor_name": "David Gest",
+        "character": "Self",
+        "popularity": 0.0362
+    },
+    {
+        "movie_id": 78192,
+        "actor_id": 992668,
+        "actor_name": "Tito Jackson",
+        "character": "Self",
+        "popularity": 0.4731
+    },
+    {
+        "movie_id": 78192,
+        "actor_id": 1246357,
+        "actor_name": "Rebbie Jackson",
+        "character": "Self",
+        "popularity": 0.0843
+    },
+    {
+        "movie_id": 78192,
+        "actor_id": 1137185,
+        "actor_name": "Katherine Jackson",
+        "character": "Self",
+        "popularity": 0.2368
+    },
+    {
+        "movie_id": 1383731,
+        "actor_id": 63,
+        "actor_name": "Milla Jovovich",
+        "character": "Nikki Halstead",
+        "popularity": 8.9175
+    },
+    {
+        "movie_id": 1383731,
+        "actor_id": 8654,
+        "actor_name": "Matthew Modine",
+        "character": "Colonel Joseph Lavelle",
+        "popularity": 3.9343
+    },
+    {
+        "movie_id": 1383731,
+        "actor_id": 1485076,
+        "actor_name": "Isabel Myers",
+        "character": "Chloe Halstead",
+        "popularity": 0.8883
+    },
+    {
+        "movie_id": 1383731,
+        "actor_id": 61962,
+        "actor_name": "D. B. Sweeney",
+        "character": "Captain Michaels",
+        "popularity": 1.4994
+    },
+    {
+        "movie_id": 1383731,
+        "actor_id": 1280,
+        "actor_name": "Don Harvey",
+        "character": "Sullivan",
+        "popularity": 0.9944
+    },
+    {
+        "movie_id": 278,
+        "actor_id": 504,
+        "actor_name": "Tim Robbins",
+        "character": "Andy Dufresne",
+        "popularity": 2.584
+    },
+    {
+        "movie_id": 278,
+        "actor_id": 192,
+        "actor_name": "Morgan Freeman",
+        "character": "Ellis Boyd 'Red' Redding",
+        "popularity": 12.3885
+    },
+    {
+        "movie_id": 278,
+        "actor_id": 4029,
+        "actor_name": "Bob Gunton",
+        "character": "Warden Norton",
+        "popularity": 2.3132
+    },
+    {
+        "movie_id": 278,
+        "actor_id": 6573,
+        "actor_name": "William Sadler",
+        "character": "Heywood",
+        "popularity": 2.4593
+    },
+    {
+        "movie_id": 278,
+        "actor_id": 6574,
+        "actor_name": "Clancy Brown",
+        "character": "Captain Byron T. Hadley",
+        "popularity": 4.5094
+    },
+    {
+        "movie_id": 1207162,
+        "actor_id": 1442711,
+        "actor_name": "Christian Mortensen",
+        "character": "Timur",
+        "popularity": 1.2475
+    },
+    {
+        "movie_id": 1207162,
+        "actor_id": 1386458,
+        "actor_name": "Mahesh Jadu",
+        "character": "Hussayn",
+        "popularity": 0.6691
+    },
+    {
+        "movie_id": 1207162,
+        "actor_id": 3555968,
+        "actor_name": "Joshua Jo",
+        "character": "Ilias",
+        "popularity": 0.1698
+    },
+    {
+        "movie_id": 1207162,
+        "actor_id": 173810,
+        "actor_name": "Sayed Badreya",
+        "character": "Kay Khusrau",
+        "popularity": 0.6777
+    },
+    {
+        "movie_id": 1207162,
+        "actor_id": 2858892,
+        "actor_name": "Yulduz Rajabova",
+        "character": "Aljai",
+        "popularity": 0.8007
+    },
+    {
+        "movie_id": 848116,
+        "actor_id": 1108120,
+        "actor_name": "Alia Bhatt",
+        "character": "Rani Chatterji",
+        "popularity": 1.5831
+    },
+    {
+        "movie_id": 848116,
+        "actor_id": 224223,
+        "actor_name": "Ranveer Singh",
+        "character": "Rocky Randhawa",
+        "popularity": 2.1443
+    },
+    {
+        "movie_id": 848116,
+        "actor_id": 35743,
+        "actor_name": "Jaya Bachchan",
+        "character": "Dhanlakshmi Randhawa",
+        "popularity": 0.7514
+    },
+    {
+        "movie_id": 848116,
+        "actor_id": 85672,
+        "actor_name": "Shabana Azmi",
+        "character": "Jamini Chatterji",
+        "popularity": 1.4754
+    },
+    {
+        "movie_id": 848116,
+        "actor_id": 85655,
+        "actor_name": "Dharmendra",
+        "character": "Kanwal Lund",
+        "popularity": 0.9122
+    },
+    {
+        "movie_id": 184314,
+        "actor_id": 1167459,
+        "actor_name": "Marine Vacth",
+        "character": "Isabelle",
+        "popularity": 1.1096
+    },
+    {
+        "movie_id": 184314,
+        "actor_id": 19888,
+        "actor_name": "G\u00e9raldine Pailhas",
+        "character": "Sylvie",
+        "popularity": 0.6119
+    },
+    {
+        "movie_id": 184314,
+        "actor_id": 44079,
+        "actor_name": "Charlotte Rampling",
+        "character": "Alice",
+        "popularity": 2.0812
+    },
+    {
+        "movie_id": 184314,
+        "actor_id": 9005,
+        "actor_name": "Fr\u00e9d\u00e9ric Pierrot",
+        "character": "Patrick",
+        "popularity": 0.4938
+    },
+    {
+        "movie_id": 184314,
+        "actor_id": 6019,
+        "actor_name": "Nathalie Richard",
+        "character": "V\u00e9ro",
+        "popularity": 0.6359
+    },
+    {
+        "movie_id": 24428,
+        "actor_id": 3223,
+        "actor_name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man",
+        "popularity": 5.8986
+    },
+    {
+        "movie_id": 24428,
+        "actor_id": 16828,
+        "actor_name": "Chris Evans",
+        "character": "Steve Rogers / Captain America",
+        "popularity": 9.0455
+    },
+    {
+        "movie_id": 24428,
+        "actor_id": 103,
+        "actor_name": "Mark Ruffalo",
+        "character": "Bruce Banner / The Hulk",
+        "popularity": 4.287
+    },
+    {
+        "movie_id": 24428,
+        "actor_id": 74568,
+        "actor_name": "Chris Hemsworth",
+        "character": "Thor",
+        "popularity": 10.7456
+    },
+    {
+        "movie_id": 24428,
+        "actor_id": 1245,
+        "actor_name": "Scarlett Johansson",
+        "character": "Natasha Romanoff / Black Widow",
+        "popularity": 17.0771
+    },
+    {
+        "movie_id": 458293,
+        "actor_id": 1819793,
+        "actor_name": "Navi",
+        "character": "Michael Jackson",
+        "popularity": 0.472
+    },
+    {
+        "movie_id": 458293,
+        "actor_id": 124645,
+        "actor_name": "Chad L. Coleman",
+        "character": "Bill Whitfield",
+        "popularity": 1.7421
+    },
+    {
+        "movie_id": 458293,
+        "actor_id": 1772766,
+        "actor_name": "Sam Adegoke",
+        "character": "Javon Beard",
+        "popularity": 0.3497
+    },
+    {
+        "movie_id": 458293,
+        "actor_id": 1819795,
+        "actor_name": "Aidan Hanlon Smith",
+        "character": "Prince Jackson",
+        "popularity": 0.0775
+    },
+    {
+        "movie_id": 458293,
+        "actor_id": 1819796,
+        "actor_name": "Taegen Burns",
+        "character": "Paris Jackson",
+        "popularity": 0.3512
+    },
+    {
+        "movie_id": 1265609,
+        "actor_id": 64295,
+        "actor_name": "Alan Ritchson",
+        "character": "81",
+        "popularity": 6.5573
+    },
+    {
+        "movie_id": 1265609,
+        "actor_id": 6065,
+        "actor_name": "Dennis Quaid",
+        "character": "Army Sgt Maj Sheridan",
+        "popularity": 4.9629
+    },
+    {
+        "movie_id": 1265609,
+        "actor_id": 1388314,
+        "actor_name": "Stephan James",
+        "character": "7",
+        "popularity": 0.6654
+    },
+    {
+        "movie_id": 1265609,
+        "actor_id": 224181,
+        "actor_name": "Jai Courtney",
+        "character": "Class President",
+        "popularity": 3.1375
+    },
+    {
+        "movie_id": 1265609,
+        "actor_id": 65344,
+        "actor_name": "Esai Morales",
+        "character": "Army Officer Torres",
+        "popularity": 2.4855
+    },
+    {
+        "movie_id": 1177445,
+        "actor_id": 3637238,
+        "actor_name": "April Consalo",
+        "character": "Ash",
+        "popularity": 0.0825
+    },
+    {
+        "movie_id": 1177445,
+        "actor_id": 4268128,
+        "actor_name": "Nate Wise",
+        "character": "Mark",
+        "popularity": 0.0143
+    },
+    {
+        "movie_id": 1177445,
+        "actor_id": 2075492,
+        "actor_name": "Clay von Carlowitz",
+        "character": "Maverick",
+        "popularity": 0.0831
+    },
+    {
+        "movie_id": 1177445,
+        "actor_id": 3665137,
+        "actor_name": "Randall Bowlin",
+        "character": "Swamp Man",
+        "popularity": 0.0143
+    },
+    {
+        "movie_id": 1177445,
+        "actor_id": 2212125,
+        "actor_name": "Benjamin Frankenberg",
+        "character": "Ocella Server",
+        "popularity": 0.103
+    },
+    {
+        "movie_id": 502356,
+        "actor_id": 73457,
+        "actor_name": "Chris Pratt",
+        "character": "Mario (voice)",
+        "popularity": 6.9273
+    },
+    {
+        "movie_id": 502356,
+        "actor_id": 1397778,
+        "actor_name": "Anya Taylor-Joy",
+        "character": "Princess Peach (voice)",
+        "popularity": 12.1127
+    },
+    {
+        "movie_id": 502356,
+        "actor_id": 95101,
+        "actor_name": "Charlie Day",
+        "character": "Luigi (voice)",
+        "popularity": 2.0271
+    },
+    {
+        "movie_id": 502356,
+        "actor_id": 70851,
+        "actor_name": "Jack Black",
+        "character": "Bowser (voice)",
+        "popularity": 5.6394
+    },
+    {
+        "movie_id": 502356,
+        "actor_id": 298410,
+        "actor_name": "Keegan-Michael Key",
+        "character": "Toad (voice)",
+        "popularity": 4.4254
+    },
+    {
+        "movie_id": 1084577,
+        "actor_id": 13240,
+        "actor_name": "Mark Wahlberg",
+        "character": "Brad",
+        "popularity": 8.2262
+    },
+    {
+        "movie_id": 1084577,
+        "actor_id": 1294982,
+        "actor_name": "Paul Walter Hauser",
+        "character": "Elijah",
+        "popularity": 2.7421
+    },
+    {
+        "movie_id": 1084577,
+        "actor_id": 6730,
+        "actor_name": "Sacha Baron Cohen",
+        "character": "Pavio Curto",
+        "popularity": 4.9732
+    },
+    {
+        "movie_id": 1084577,
+        "actor_id": 4589,
+        "actor_name": "Benjamin Bratt",
+        "character": "Santos",
+        "popularity": 3.799
+    },
+    {
+        "movie_id": 1084577,
+        "actor_id": 91588,
+        "actor_name": "Luciano Szafir",
+        "character": "Cristos",
+        "popularity": 0.2403
+    },
+    {
+        "movie_id": 299536,
+        "actor_id": 3223,
+        "actor_name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man",
+        "popularity": 5.6742
+    },
+    {
+        "movie_id": 299536,
+        "actor_id": 16828,
+        "actor_name": "Chris Evans",
+        "character": "Steve Rogers / Captain America",
+        "popularity": 6.7683
+    },
+    {
+        "movie_id": 299536,
+        "actor_id": 74568,
+        "actor_name": "Chris Hemsworth",
+        "character": "Thor",
+        "popularity": 8.5559
+    },
+    {
+        "movie_id": 299536,
+        "actor_id": 16851,
+        "actor_name": "Josh Brolin",
+        "character": "Thanos",
+        "popularity": 4.9443
+    },
+    {
+        "movie_id": 299536,
+        "actor_id": 103,
+        "actor_name": "Mark Ruffalo",
+        "character": "Bruce Banner / Hulk",
+        "popularity": 4.1247
+    },
+    {
+        "movie_id": 1317448,
+        "actor_id": 1376137,
+        "actor_name": "Matilde Gioli",
+        "character": "Elisa",
+        "popularity": 1.2451
+    },
+    {
+        "movie_id": 1317448,
+        "actor_id": 1634155,
+        "actor_name": "Cristiano Caccamo",
+        "character": "Michele",
+        "popularity": 2.2844
+    },
+    {
+        "movie_id": 1317448,
+        "actor_id": 2595107,
+        "actor_name": "Amanda Campana",
+        "character": "Giada",
+        "popularity": 1.576
+    },
+    {
+        "movie_id": 1317448,
+        "actor_id": 2762412,
+        "actor_name": "Sebastiano Pigazzi",
+        "character": "Carlo",
+        "popularity": 1.0305
+    },
+    {
+        "movie_id": 1317448,
+        "actor_id": 27322,
+        "actor_name": "Cecilia Dazzi",
+        "character": "",
+        "popularity": 0.4156
+    },
+    {
+        "movie_id": 441168,
+        "actor_id": 109783,
+        "actor_name": "Haley Pullos",
+        "character": "Miriam Weeks",
+        "popularity": 1.3096
+    },
+    {
+        "movie_id": 441168,
+        "actor_id": 1723911,
+        "actor_name": "Sasha Clements",
+        "character": "Jolie",
+        "popularity": 0.4027
+    },
+    {
+        "movie_id": 441168,
+        "actor_id": 21624,
+        "actor_name": "Judd Nelson",
+        "character": "Don",
+        "popularity": 1.3326
+    },
+    {
+        "movie_id": 441168,
+        "actor_id": 1210485,
+        "actor_name": "Alyson Bath",
+        "character": "Dora",
+        "popularity": 0.4189
+    },
+    {
+        "movie_id": 441168,
+        "actor_id": 1772357,
+        "actor_name": "Jacky Lai",
+        "character": "Amy",
+        "popularity": 0.5535
+    },
+    {
+        "movie_id": 1641319,
+        "actor_id": 228371,
+        "actor_name": "Chad Michael Collins",
+        "character": "Brandon Beckett",
+        "popularity": 1.5403
+    },
+    {
+        "movie_id": 1641319,
+        "actor_id": 77164,
+        "actor_name": "Ryan Robbins",
+        "character": "Zero",
+        "popularity": 1.6165
+    },
+    {
+        "movie_id": 1641319,
+        "actor_id": 1994213,
+        "actor_name": "Manuel Rodriguez-Saenz",
+        "character": "Nova",
+        "popularity": 0.2675
+    },
+    {
+        "movie_id": 1641319,
+        "actor_id": 1180979,
+        "actor_name": "Josh Brener",
+        "character": "Intel Pete",
+        "popularity": 1.2898
+    },
+    {
+        "movie_id": 1641319,
+        "actor_id": 13022,
+        "actor_name": "Tom Berenger",
+        "character": "Thomas Beckett",
+        "popularity": 2.0757
+    },
+    {
+        "movie_id": 744275,
+        "actor_id": 1753914,
+        "actor_name": "Josephine Langford",
+        "character": "Tessa Young",
+        "popularity": 3.5075
+    },
+    {
+        "movie_id": 744275,
+        "actor_id": 1114487,
+        "actor_name": "Hero Fiennes Tiffin",
+        "character": "Hardin Scott",
+        "popularity": 2.72
+    },
+    {
+        "movie_id": 744275,
+        "actor_id": 86653,
+        "actor_name": "Carter Jenkins",
+        "character": "Robert Freeman",
+        "popularity": 0.918
+    },
+    {
+        "movie_id": 744275,
+        "actor_id": 20805,
+        "actor_name": "Louise Lombard",
+        "character": "Trish Daniels",
+        "popularity": 1.5743
+    },
+    {
+        "movie_id": 744275,
+        "actor_id": 2035329,
+        "actor_name": "Chance Perdomo",
+        "character": "Landon Gibson",
+        "popularity": 0.5233
+    },
+    {
+        "movie_id": 603,
+        "actor_id": 6384,
+        "actor_name": "Keanu Reeves",
+        "character": "Neo",
+        "popularity": 9.763
+    },
+    {
+        "movie_id": 603,
+        "actor_id": 2975,
+        "actor_name": "Laurence Fishburne",
+        "character": "Morpheus",
+        "popularity": 6.0922
+    },
+    {
+        "movie_id": 603,
+        "actor_id": 530,
+        "actor_name": "Carrie-Anne Moss",
+        "character": "Trinity",
+        "popularity": 2.6011
+    },
+    {
+        "movie_id": 603,
+        "actor_id": 1331,
+        "actor_name": "Hugo Weaving",
+        "character": "Agent Smith",
+        "popularity": 2.2778
+    },
+    {
+        "movie_id": 603,
+        "actor_id": 9364,
+        "actor_name": "Gloria Foster",
+        "character": "Oracle",
+        "popularity": 1.3046
+    },
+    {
+        "movie_id": 1601797,
+        "actor_id": 947296,
+        "actor_name": "Ludwika Paleta",
+        "character": "Luc\u00eda",
+        "popularity": 2.2873
+    },
+    {
+        "movie_id": 1601797,
+        "actor_id": 2723354,
+        "actor_name": "Juanpa Zurita",
+        "character": "Javier",
+        "popularity": 0.7103
+    },
+    {
+        "movie_id": 1601797,
+        "actor_id": 1592680,
+        "actor_name": "Harold Azuara",
+        "character": "La Avispa",
+        "popularity": 0.5099
+    },
+    {
+        "movie_id": 1601797,
+        "actor_id": 1328903,
+        "actor_name": "Yuriria del Valle",
+        "character": "Maguis",
+        "popularity": 0.2991
+    },
+    {
+        "movie_id": 1601797,
+        "actor_id": 966638,
+        "actor_name": "Mois\u00e9s Arizmendi",
+        "character": "T\u00edo Gustavo",
+        "popularity": 0.441
+    },
+    {
+        "movie_id": 1316092,
+        "actor_id": 234352,
+        "actor_name": "Margot Robbie",
+        "character": "Cathy",
+        "popularity": 11.1454
+    },
+    {
+        "movie_id": 1316092,
+        "actor_id": 2034418,
+        "actor_name": "Jacob Elordi",
+        "character": "Heathcliff",
+        "popularity": 10.9329
+    },
+    {
+        "movie_id": 1316092,
+        "actor_id": 1360317,
+        "actor_name": "Hong Chau",
+        "character": "Nelly",
+        "popularity": 1.7303
+    },
+    {
+        "movie_id": 1316092,
+        "actor_id": 2981449,
+        "actor_name": "Alison Oliver",
+        "character": "Isabella",
+        "popularity": 1.0316
+    },
+    {
+        "movie_id": 1316092,
+        "actor_id": 1370832,
+        "actor_name": "Shazad Latif",
+        "character": "Edgar",
+        "popularity": 1.625
+    },
+    {
+        "movie_id": 1352874,
+        "actor_id": 2843103,
+        "actor_name": "Hannaj Bang Bendz",
+        "character": "Sara",
+        "popularity": 0.1588
+    },
+    {
+        "movie_id": 1352874,
+        "actor_id": 1524860,
+        "actor_name": "Dean Kilbey",
+        "character": "Mungo",
+        "popularity": 0.1529
+    },
+    {
+        "movie_id": 1352874,
+        "actor_id": 1759040,
+        "actor_name": "Nicholas Anscombe",
+        "character": "Father Stewart",
+        "popularity": 0.0832
+    },
+    {
+        "movie_id": 1352874,
+        "actor_id": 1128296,
+        "actor_name": "Tom Carter",
+        "character": "Doctor Byrne",
+        "popularity": 0.1266
+    },
+    {
+        "movie_id": 1352874,
+        "actor_id": 2822929,
+        "actor_name": "Darren Le Fevre",
+        "character": "Thorvald Ironside",
+        "popularity": 0.0486
+    },
+    {
+        "movie_id": 1368337,
+        "actor_id": 1892,
+        "actor_name": "Matt Damon",
+        "character": "Odysseus",
+        "popularity": 13.8877
+    },
+    {
+        "movie_id": 1368337,
+        "actor_id": 1136406,
+        "actor_name": "Tom Holland",
+        "character": "Telemachus",
+        "popularity": 8.4762
+    },
+    {
+        "movie_id": 1368337,
+        "actor_id": 1813,
+        "actor_name": "Anne Hathaway",
+        "character": "Penelope",
+        "popularity": 21.8986
+    },
+    {
+        "movie_id": 1368337,
+        "actor_id": 11288,
+        "actor_name": "Robert Pattinson",
+        "character": "Antinous",
+        "popularity": 7.0974
+    },
+    {
+        "movie_id": 1368337,
+        "actor_id": 1267329,
+        "actor_name": "Lupita Nyong'o",
+        "character": "",
+        "popularity": 5.8506
+    },
+    {
+        "movie_id": 1110034,
+        "actor_id": 1904884,
+        "actor_name": "Sara Khorami",
+        "character": "Johanne",
+        "popularity": 4.0781
+    },
+    {
+        "movie_id": 1110034,
+        "actor_id": 234783,
+        "actor_name": "Mikkel Bratt Silset",
+        "character": "Erik",
+        "popularity": 0.4891
+    },
+    {
+        "movie_id": 1110034,
+        "actor_id": 1475929,
+        "actor_name": "Ingvild Holthe Bygdnes",
+        "character": "Henriette",
+        "popularity": 0.3063
+    },
+    {
+        "movie_id": 1110034,
+        "actor_id": 2302835,
+        "actor_name": "\u00d8yvind Brandtz\u00e6g",
+        "character": "Avaldsnes",
+        "popularity": 0.1711
+    },
+    {
+        "movie_id": 1110034,
+        "actor_id": 3573975,
+        "actor_name": "Jenny Evensen",
+        "character": "Maria",
+        "popularity": 0.3227
+    },
+    {
+        "movie_id": 238,
+        "actor_id": 3084,
+        "actor_name": "Marlon Brando",
+        "character": "Don Vito Corleone",
+        "popularity": 2.4582
+    },
+    {
+        "movie_id": 238,
+        "actor_id": 1158,
+        "actor_name": "Al Pacino",
+        "character": "Michael Corleone",
+        "popularity": 5.9093
+    },
+    {
+        "movie_id": 238,
+        "actor_id": 3085,
+        "actor_name": "James Caan",
+        "character": "Sonny Corleone",
+        "popularity": 2.824
+    },
+    {
+        "movie_id": 238,
+        "actor_id": 3087,
+        "actor_name": "Robert Duvall",
+        "character": "Tom Hagen",
+        "popularity": 3.2913
+    },
+    {
+        "movie_id": 238,
+        "actor_id": 3086,
+        "actor_name": "Richard S. Castellano",
+        "character": "Clemenza",
+        "popularity": 0.9729
+    },
+    {
+        "movie_id": 27205,
+        "actor_id": 6193,
+        "actor_name": "Leonardo DiCaprio",
+        "character": "Dom Cobb",
+        "popularity": 10.1943
+    },
+    {
+        "movie_id": 27205,
+        "actor_id": 24045,
+        "actor_name": "Joseph Gordon-Levitt",
+        "character": "Arthur",
+        "popularity": 4.7883
+    },
+    {
+        "movie_id": 27205,
+        "actor_id": 3899,
+        "actor_name": "Ken Watanabe",
+        "character": "Saito",
+        "popularity": 2.5372
+    },
+    {
+        "movie_id": 27205,
+        "actor_id": 2524,
+        "actor_name": "Tom Hardy",
+        "character": "Eames",
+        "popularity": 9.7451
+    },
+    {
+        "movie_id": 27205,
+        "actor_id": 27578,
+        "actor_name": "Elliot Page",
+        "character": "Ariadne",
+        "popularity": 7.4121
+    },
+    {
+        "movie_id": 1010581,
+        "actor_id": 2527414,
+        "actor_name": "Nicole Wallace",
+        "character": "Noah Mor\u00e1n",
+        "popularity": 4.2441
+    },
+    {
+        "movie_id": 1010581,
+        "actor_id": 2786960,
+        "actor_name": "Gabriel Guevara",
+        "character": "Nick Leister",
+        "popularity": 5.712
+    },
+    {
+        "movie_id": 1010581,
+        "actor_id": 970027,
+        "actor_name": "Marta Hazas",
+        "character": "Rafaella Leister",
+        "popularity": 1.0997
+    },
+    {
+        "movie_id": 1010581,
+        "actor_id": 1251336,
+        "actor_name": "Iv\u00e1n S\u00e1nchez",
+        "character": "William Leister",
+        "popularity": 0.6368
+    },
+    {
+        "movie_id": 1010581,
+        "actor_id": 4105602,
+        "actor_name": "Eva Ruiz",
+        "character": "Jenna",
+        "popularity": 0.5755
+    },
+    {
+        "movie_id": 1534530,
+        "actor_id": 5643967,
+        "actor_name": "Ana Clara Guanco",
+        "character": "Luc\u00eda",
+        "popularity": 0.1015
+    },
+    {
+        "movie_id": 1534530,
+        "actor_id": 2480553,
+        "actor_name": "Marcelo Michinaux",
+        "character": "Adri\u00e1n",
+        "popularity": 0.1608
+    },
+    {
+        "movie_id": 1534530,
+        "actor_id": 79291,
+        "actor_name": "Luciano C\u00e1ceres",
+        "character": "V\u00edctor",
+        "popularity": 0.2323
+    },
+    {
+        "movie_id": 911430,
+        "actor_id": 287,
+        "actor_name": "Brad Pitt",
+        "character": "Sonny Hayes",
+        "popularity": 12.6292
+    },
+    {
+        "movie_id": 911430,
+        "actor_id": 1837297,
+        "actor_name": "Damson Idris",
+        "character": "Joshua Pearce",
+        "popularity": 5.8932
+    },
+    {
+        "movie_id": 911430,
+        "actor_id": 3810,
+        "actor_name": "Javier Bardem",
+        "character": "Ruben Cervantes",
+        "popularity": 5.2463
+    },
+    {
+        "movie_id": 911430,
+        "actor_id": 62105,
+        "actor_name": "Kerry Condon",
+        "character": "Kate McKenna",
+        "popularity": 3.1001
+    },
+    {
+        "movie_id": 911430,
+        "actor_id": 10920,
+        "actor_name": "Tobias Menzies",
+        "character": "Peter Banning",
+        "popularity": 3.0751
+    },
+    {
+        "movie_id": 1688652,
+        "actor_id": 21042,
+        "actor_name": "Ebon Moss-Bachrach",
+        "character": "Richard 'Richie' Jerimovich",
+        "popularity": 3.5749
+    },
+    {
+        "movie_id": 1688652,
+        "actor_id": 19498,
+        "actor_name": "Jon Bernthal",
+        "character": "Michael Berzatto",
+        "popularity": 8.2564
+    },
+    {
+        "movie_id": 1688652,
+        "actor_id": 164094,
+        "actor_name": "Marin Ireland",
+        "character": "Sherri",
+        "popularity": 2.4918
+    },
+    {
+        "movie_id": 1688652,
+        "actor_id": 94098,
+        "actor_name": "Gillian Jacobs",
+        "character": "Tiffany Jerimovich",
+        "popularity": 2.0973
+    },
+    {
+        "movie_id": 1688652,
+        "actor_id": 5060575,
+        "actor_name": "Nation Sage Henrikson",
+        "character": "Cowboy",
+        "popularity": 0.2293
+    },
+    {
+        "movie_id": 609681,
+        "actor_id": 60073,
+        "actor_name": "Brie Larson",
+        "character": "Carol Danvers / Captain Marvel",
+        "popularity": 4.2665
+    },
+    {
+        "movie_id": 609681,
+        "actor_id": 970219,
+        "actor_name": "Teyonah Parris",
+        "character": "Monica Rambeau",
+        "popularity": 0.8635
+    },
+    {
+        "movie_id": 609681,
+        "actor_id": 2798462,
+        "actor_name": "Iman Vellani",
+        "character": "Kamala Khan / Ms. Marvel",
+        "popularity": 1.5219
+    },
+    {
+        "movie_id": 609681,
+        "actor_id": 2231,
+        "actor_name": "Samuel L. Jackson",
+        "character": "Nick Fury",
+        "popularity": 8.3661
+    },
+    {
+        "movie_id": 609681,
+        "actor_id": 118034,
+        "actor_name": "Zawe Ashton",
+        "character": "Dar-Benn",
+        "popularity": 0.9558
+    },
+    {
+        "movie_id": 425274,
+        "actor_id": 44735,
+        "actor_name": "Jesse Eisenberg",
+        "character": "J. Daniel Atlas",
+        "popularity": 3.3635
+    },
+    {
+        "movie_id": 425274,
+        "actor_id": 3918497,
+        "actor_name": "Dominic Sessa",
+        "character": "Bosco",
+        "popularity": 1.5064
+    },
+    {
+        "movie_id": 425274,
+        "actor_id": 1767250,
+        "actor_name": "Ariana Greenblatt",
+        "character": "June",
+        "popularity": 4.0924
+    },
+    {
+        "movie_id": 425274,
+        "actor_id": 1029934,
+        "actor_name": "Justice Smith",
+        "character": "Charlie",
+        "popularity": 2.1727
+    },
+    {
+        "movie_id": 425274,
+        "actor_id": 10882,
+        "actor_name": "Rosamund Pike",
+        "character": "Veronika Vanderberg",
+        "popularity": 6.2897
+    },
+    {
+        "movie_id": 1196067,
+        "actor_id": 63,
+        "actor_name": "Milla Jovovich",
+        "character": "Mom",
+        "popularity": 10.4678
+    },
+    {
+        "movie_id": 1196067,
+        "actor_id": 114019,
+        "actor_name": "Luke Evans",
+        "character": "Dad",
+        "popularity": 3.3165
+    },
+    {
+        "movie_id": 1196067,
+        "actor_id": 2667928,
+        "actor_name": "Billie Boullet",
+        "character": "Willa",
+        "popularity": 10.9735
+    },
+    {
+        "movie_id": 1196067,
+        "actor_id": 956385,
+        "actor_name": "Meadow Williams",
+        "character": "Soldier #1",
+        "popularity": 0.6205
+    },
+    {
+        "movie_id": 1196067,
+        "actor_id": 3214361,
+        "actor_name": "Mila Harris",
+        "character": "Rosie",
+        "popularity": 0.4903
+    },
+    {
+        "movie_id": 122,
+        "actor_id": 109,
+        "actor_name": "Elijah Wood",
+        "character": "Frodo",
+        "popularity": 4.6
+    },
+    {
+        "movie_id": 122,
+        "actor_id": 1327,
+        "actor_name": "Ian McKellen",
+        "character": "Gandalf",
+        "popularity": 3.7943
+    },
+    {
+        "movie_id": 122,
+        "actor_id": 110,
+        "actor_name": "Viggo Mortensen",
+        "character": "Aragorn",
+        "popularity": 5.8348
+    },
+    {
+        "movie_id": 122,
+        "actor_id": 1328,
+        "actor_name": "Sean Astin",
+        "character": "Sam",
+        "popularity": 3.8383
+    },
+    {
+        "movie_id": 122,
+        "actor_id": 1333,
+        "actor_name": "Andy Serkis",
+        "character": "Gollum / Smeagol",
+        "popularity": 3.631
+    },
+    {
+        "movie_id": 1336770,
+        "actor_id": 4746537,
+        "actor_name": "Hashir",
+        "character": "Hashir",
+        "popularity": 13.2341
+    },
+    {
+        "movie_id": 1336770,
+        "actor_id": 4887222,
+        "actor_name": "Alan Bin Siraj",
+        "character": "Alan",
+        "popularity": 1.7834
+    },
+    {
+        "movie_id": 1336770,
+        "actor_id": 4314419,
+        "actor_name": "Ajin Joy",
+        "character": "Ajin",
+        "popularity": 0.9552
+    },
+    {
+        "movie_id": 1336770,
+        "actor_id": 4887229,
+        "actor_name": "Vinayak V",
+        "character": "Vinayak",
+        "popularity": 0.1659
+    },
+    {
+        "movie_id": 1336770,
+        "actor_id": 1171340,
+        "actor_name": "Alphonse Puthren",
+        "character": "DYSP Xavier Alexander",
+        "popularity": 0.5005
+    },
+    {
+        "movie_id": 155,
+        "actor_id": 3894,
+        "actor_name": "Christian Bale",
+        "character": "Bruce Wayne",
+        "popularity": 5.7755
+    },
+    {
+        "movie_id": 155,
+        "actor_id": 1810,
+        "actor_name": "Heath Ledger",
+        "character": "Joker",
+        "popularity": 3.4051
+    },
+    {
+        "movie_id": 155,
+        "actor_id": 6383,
+        "actor_name": "Aaron Eckhart",
+        "character": "Harvey Dent",
+        "popularity": 2.8668
+    },
+    {
+        "movie_id": 155,
+        "actor_id": 3895,
+        "actor_name": "Michael Caine",
+        "character": "Alfred",
+        "popularity": 2.9838
+    },
+    {
+        "movie_id": 155,
+        "actor_id": 1579,
+        "actor_name": "Maggie Gyllenhaal",
+        "character": "Rachel",
+        "popularity": 3.4416
+    },
+    {
+        "movie_id": 278986,
+        "actor_id": 1296866,
+        "actor_name": "Priyanka Bose",
+        "character": "Gangor",
+        "popularity": 1.301
+    },
+    {
+        "movie_id": 278986,
+        "actor_id": 6501,
+        "actor_name": "Tillotama Shome",
+        "character": "Medha",
+        "popularity": 0.9223
+    },
+    {
+        "movie_id": 278986,
+        "actor_id": 227849,
+        "actor_name": "Adil Hussain",
+        "character": "Upin",
+        "popularity": 0.9965
+    },
+    {
+        "movie_id": 278986,
+        "actor_id": 113693,
+        "actor_name": "Samrat Chakrabarti",
+        "character": "Ujan",
+        "popularity": 0.3171
+    },
+    {
+        "movie_id": 278986,
+        "actor_id": 113684,
+        "actor_name": "Seema Rahmani",
+        "character": "Shital",
+        "popularity": 0.3082
+    },
+    {
+        "movie_id": 1038392,
+        "actor_id": 17178,
+        "actor_name": "Patrick Wilson",
+        "character": "Ed Warren",
+        "popularity": 2.7183
+    },
+    {
+        "movie_id": 1038392,
+        "actor_id": 21657,
+        "actor_name": "Vera Farmiga",
+        "character": "Lorraine Warren",
+        "popularity": 3.1889
+    },
+    {
+        "movie_id": 1038392,
+        "actor_id": 3011652,
+        "actor_name": "Mia Tomlinson",
+        "character": "Judy Warren",
+        "popularity": 1.6357
+    },
+    {
+        "movie_id": 1038392,
+        "actor_id": 1452045,
+        "actor_name": "Ben Hardy",
+        "character": "Tony Spera",
+        "popularity": 1.9816
+    },
+    {
+        "movie_id": 1038392,
+        "actor_id": 1355139,
+        "actor_name": "Rebecca Calder",
+        "character": "Janet Smurl",
+        "popularity": 0.8491
+    },
+    {
+        "movie_id": 82023,
+        "actor_id": 592925,
+        "actor_name": "Saralisa Volm",
+        "character": "Antonia",
+        "popularity": 0.7532
+    },
+    {
+        "movie_id": 82023,
+        "actor_id": 213596,
+        "actor_name": "Clemens Schick",
+        "character": "Julius Pass",
+        "popularity": 0.761
+    },
+    {
+        "movie_id": 82023,
+        "actor_id": 17545,
+        "actor_name": "Jan-Gregor Kremp",
+        "character": "Marcel",
+        "popularity": 0.3517
+    },
+    {
+        "movie_id": 82023,
+        "actor_id": 1081,
+        "actor_name": "Herbert Knaup",
+        "character": "Hotel Manager",
+        "popularity": 0.5294
+    },
+    {
+        "movie_id": 82023,
+        "actor_id": 1191238,
+        "actor_name": "Palina Rojinski",
+        "character": "Julia",
+        "popularity": 1.169
+    },
+    {
+        "movie_id": 1470130,
+        "actor_id": 1223171,
+        "actor_name": "Willa Holland",
+        "character": "Rebecca Owens",
+        "popularity": 2.4788
+    },
+    {
+        "movie_id": 1470130,
+        "actor_id": 167564,
+        "actor_name": "Paul Sparks",
+        "character": "Raymond Delver",
+        "popularity": 0.9931
+    },
+    {
+        "movie_id": 1470130,
+        "actor_id": 1391986,
+        "actor_name": "John Adams",
+        "character": "",
+        "popularity": 0.2907
+    },
+    {
+        "movie_id": 1470130,
+        "actor_id": 1052211,
+        "actor_name": "Mark Steger",
+        "character": "The Mimic",
+        "popularity": 0.6357
+    },
+    {
+        "movie_id": 1470130,
+        "actor_id": 1922891,
+        "actor_name": "Shelly Gibson",
+        "character": "Grandma",
+        "popularity": 0.1148
+    },
+    {
+        "movie_id": 11013,
+        "actor_id": 13548,
+        "actor_name": "James Spader",
+        "character": "Mr. Grey",
+        "popularity": 4.9032
+    },
+    {
+        "movie_id": 11013,
+        "actor_id": 1579,
+        "actor_name": "Maggie Gyllenhaal",
+        "character": "Lee Holloway",
+        "popularity": 3.0725
+    },
+    {
+        "movie_id": 11013,
+        "actor_id": 4654,
+        "actor_name": "Jeremy Davies",
+        "character": "Peter",
+        "popularity": 2.4581
+    },
+    {
+        "movie_id": 11013,
+        "actor_id": 21818,
+        "actor_name": "Lesley Ann Warren",
+        "character": "Joan Holloway",
+        "popularity": 2.9115
+    },
+    {
+        "movie_id": 11013,
+        "actor_id": 230,
+        "actor_name": "Stephen McHattie",
+        "character": "Burt Holloway",
+        "popularity": 2.064
+    },
+    {
+        "movie_id": 1087040,
+        "actor_id": 3970030,
+        "actor_name": "Noelle Perdue",
+        "character": "Self - Porn Industry Professional",
+        "popularity": 0.4138
+    },
+    {
+        "movie_id": 1087040,
+        "actor_id": 149066,
+        "actor_name": "Michael Stabile",
+        "character": "Self - Porn Industry Advocate / Director of Public Affairs, FSC",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 1087040,
+        "actor_id": 1100768,
+        "actor_name": "Siri Dahl",
+        "character": "Self - Porn Performer",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 1087040,
+        "actor_id": 222346,
+        "actor_name": "Wolf Hudson",
+        "character": "Self - Porn Performer",
+        "popularity": 0.0
+    },
+    {
+        "movie_id": 1087040,
+        "actor_id": 3970043,
+        "actor_name": "Martin Patriquin",
+        "character": "Self - Journalist, The Logic",
+        "popularity": 0.1076
+    },
+    {
+        "movie_id": 1084187,
+        "actor_id": 1483976,
+        "actor_name": "Maddie Ziegler",
+        "character": "Bones",
+        "popularity": 2.0485
+    },
+    {
+        "movie_id": 1084187,
+        "actor_id": 1452046,
+        "actor_name": "Lana Condor",
+        "character": "Princess",
+        "popularity": 5.2187
+    },
+    {
+        "movie_id": 1084187,
+        "actor_id": 963429,
+        "actor_name": "Iris Apatow",
+        "character": "Zoe",
+        "popularity": 1.3532
+    },
+    {
+        "movie_id": 1084187,
+        "actor_id": 1815539,
+        "actor_name": "Millicent Simmonds",
+        "character": "Chloe",
+        "popularity": 0.9564
+    },
+    {
+        "movie_id": 1084187,
+        "actor_id": 2749024,
+        "actor_name": "Avantika",
+        "character": "Grace",
+        "popularity": 2.7342
+    },
+    {
+        "movie_id": 120,
+        "actor_id": 109,
+        "actor_name": "Elijah Wood",
+        "character": "Frodo",
+        "popularity": 4.395
+    },
+    {
+        "movie_id": 120,
+        "actor_id": 1327,
+        "actor_name": "Ian McKellen",
+        "character": "Gandalf",
+        "popularity": 3.3335
+    },
+    {
+        "movie_id": 120,
+        "actor_id": 110,
+        "actor_name": "Viggo Mortensen",
+        "character": "Aragorn",
+        "popularity": 7.2076
+    },
+    {
+        "movie_id": 120,
+        "actor_id": 1328,
+        "actor_name": "Sean Astin",
+        "character": "Sam",
+        "popularity": 4.4823
+    },
+    {
+        "movie_id": 120,
+        "actor_id": 65,
+        "actor_name": "Ian Holm",
+        "character": "Bilbo",
+        "popularity": 1.6874
+    },
+    {
+        "movie_id": 1272837,
+        "actor_id": 5469,
+        "actor_name": "Ralph Fiennes",
+        "character": "Dr Kelson",
+        "popularity": 4.4597
+    },
+    {
+        "movie_id": 1272837,
+        "actor_id": 85065,
+        "actor_name": "Jack O'Connell",
+        "character": "Sir Jimmy Crystal",
+        "popularity": 3.8294
+    },
+    {
+        "movie_id": 1272837,
+        "actor_id": 5107934,
+        "actor_name": "Alfie Williams",
+        "character": "Spike",
+        "popularity": 0.9617
+    },
+    {
+        "movie_id": 1272837,
+        "actor_id": 1672504,
+        "actor_name": "Erin Kellyman",
+        "character": "Jimmy Ink",
+        "popularity": 1.0923
+    },
+    {
+        "movie_id": 1272837,
+        "actor_id": 1344320,
+        "actor_name": "Chi Lewis-Parry",
+        "character": "Samson",
+        "popularity": 1.399
+    },
+    {
+        "movie_id": 803796,
+        "actor_id": 144279,
+        "actor_name": "Arden Cho",
+        "character": "Rumi (voice)",
+        "popularity": 1.6601
+    },
+    {
+        "movie_id": 803796,
+        "actor_id": 1948606,
+        "actor_name": "May Hong",
+        "character": "Mira (voice)",
+        "popularity": 0.5247
+    },
+    {
+        "movie_id": 803796,
+        "actor_id": 2983147,
+        "actor_name": "Ji-young Yoo",
+        "character": "Zoey (voice)",
+        "popularity": 1.7394
+    },
+    {
+        "movie_id": 803796,
+        "actor_id": 1571598,
+        "actor_name": "Ahn Hyo-seop",
+        "character": "Jinu (voice)",
+        "popularity": 2.7813
+    },
+    {
+        "movie_id": 803796,
+        "actor_id": 28662,
+        "actor_name": "Yunjin Kim",
+        "character": "Celine (voice)",
+        "popularity": 1.8288
+    },
+    {
+        "movie_id": 1234731,
+        "actor_id": 70851,
+        "actor_name": "Jack Black",
+        "character": "Doug McCallister",
+        "popularity": 5.8819
+    },
+    {
+        "movie_id": 1234731,
+        "actor_id": 22226,
+        "actor_name": "Paul Rudd",
+        "character": "Ronald Griffin Jr.",
+        "popularity": 4.1187
+    },
+    {
+        "movie_id": 1234731,
+        "actor_id": 18324,
+        "actor_name": "Steve Zahn",
+        "character": "Kenny Trent",
+        "popularity": 2.801
+    },
+    {
+        "movie_id": 1234731,
+        "actor_id": 9030,
+        "actor_name": "Thandiwe Newton",
+        "character": "Claire Simons",
+        "popularity": 3.6654
+    },
+    {
+        "movie_id": 1234731,
+        "actor_id": 1784612,
+        "actor_name": "Daniela Melchior",
+        "character": "Ana Almeida",
+        "popularity": 2.8033
+    },
+    {
+        "movie_id": 967998,
+        "actor_id": 3457255,
+        "actor_name": "Aline Mineiro",
+        "character": "Juliana",
+        "popularity": 7.4945
+    },
+    {
+        "movie_id": 967998,
+        "actor_id": 1878927,
+        "actor_name": "Ricardo Ramory",
+        "character": "Davi",
+        "popularity": 0.1246
+    },
+    {
+        "movie_id": 967998,
+        "actor_id": 1659001,
+        "actor_name": "Ruben Espinoza",
+        "character": "Matheus",
+        "popularity": 0.1199
+    },
+    {
+        "movie_id": 967998,
+        "actor_id": 1658998,
+        "actor_name": "Renato Siqueira",
+        "character": "Paulo",
+        "popularity": 0.1684
+    },
+    {
+        "movie_id": 967998,
+        "actor_id": 3524576,
+        "actor_name": "Priscila Castello Branco",
+        "character": "Fernanda",
+        "popularity": 0.1906
+    },
+    {
+        "movie_id": 479787,
+        "actor_id": 1075830,
+        "actor_name": "Nam Koong Won",
+        "character": "",
+        "popularity": 0.5995
+    },
+    {
+        "movie_id": 479787,
+        "actor_id": 1079604,
+        "actor_name": "Lee Ki-seon",
+        "character": "",
+        "popularity": 0.6259
+    },
+    {
+        "movie_id": 496243,
+        "actor_id": 20738,
+        "actor_name": "Song Kang-ho",
+        "character": "Kim Ki-taek",
+        "popularity": 2.4658
+    },
+    {
+        "movie_id": 496243,
+        "actor_id": 115290,
+        "actor_name": "Lee Sun-kyun",
+        "character": "Park Dong-ik",
+        "popularity": 1.9151
+    },
+    {
+        "movie_id": 496243,
+        "actor_id": 556435,
+        "actor_name": "Cho Yeo-jeong",
+        "character": "Yeon-kyo",
+        "popularity": 3.499
+    },
+    {
+        "movie_id": 496243,
+        "actor_id": 1255881,
+        "actor_name": "Choi Woo-shik",
+        "character": "Ki-woo",
+        "popularity": 2.7298
+    },
+    {
+        "movie_id": 496243,
+        "actor_id": 1442583,
+        "actor_name": "Park So-dam",
+        "character": "Ki-jung",
+        "popularity": 1.9279
+    }
+]

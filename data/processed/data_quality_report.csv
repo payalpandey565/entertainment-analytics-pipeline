@@ -1,0 +1,8 @@
+check,count
+movie_nulls,0
+cast_nulls,8
+movie_duplicates,0
+cast_duplicates,0
+invalid_ratings,0
+negative_popularity,0
+missing_actor_names,0
