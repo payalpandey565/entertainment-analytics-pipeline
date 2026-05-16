@@ -112,11 +112,11 @@ Streamlit Dashboard
 
 ## Rating Category
 
-![Rating Category](assets/screenshots/complete_dataset.png)
+![Rating Category](assets/screenshots/rating_category.png)
 
 ## Language Distribution
 
-![Language Distribution ](assets/screenshots/complete_dataset.png)
+![Language Distribution ](assets/screenshots/lang_distribution.png)
 
 ---
 
